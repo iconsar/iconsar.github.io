@@ -43,16 +43,6 @@
   </url>
   
   <url>
-    <loc>https://iconsar.github.io/blog/entrada_modelo_1/</loc>
-    <lastmod>2020-04-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iconsar.github.io/blog/presentacion/</loc>
-    <lastmod>2020-04-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://iconsar.github.io/c_academico/gp/</loc>
   </url>
   
@@ -62,6 +52,10 @@
   
   <url>
     <loc>https://iconsar.github.io/c_academico/ma/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iconsar.github.io/blog/quienes_somos/</loc>
   </url>
   
   <url>
@@ -125,26 +119,14 @@
   
   <url>
     <loc>https://iconsar.github.io/blog/</loc>
-    <lastmod>2020-04-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iconsar.github.io/tags/constitucional/</loc>
-    <lastmod>2020-04-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iconsar.github.io/tags/institucional/</loc>
-    <lastmod>2020-04-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iconsar.github.io/tags/</loc>
-    <lastmod>2020-04-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://iconsar.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iconsar.github.io/tags/</loc>
   </url>
   
 </urlset>
