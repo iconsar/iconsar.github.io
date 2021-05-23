@@ -6,7 +6,7 @@
     <description>Recent content on ICON•S Argentina</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://iconsar.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -82,8 +82,7 @@ Investigador y profesor de posgrado en otras Casas de Altos Estudios tanto en el
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://iconsar.github.io/c_academico/mp/</guid>
-      <description>Profesor de Derecho Constitucional de la Universidad de Buenos Aires.
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</description>
+      <description>Profesora de Derecho Constitucional de la Universidad Nacional de Córdoba</description>
     </item>
     
     <item>
@@ -102,6 +101,16 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
       
       <guid>https://iconsar.github.io/c_academico/sam/</guid>
       <description>Silvina Alvarez Medina es profesora de Filosofía del Derecho en la Universidad Autónoma de Madrid; ha sido profesora visitante en el European University Institute, la Universidad Pompeu Fabra de Barcelona, y las Universidades de Oxford y Sussex en Reino Unido. Entre sus publicaciones, “La interferencia estatal en la vida privada y familiar”, CEFD, n. 42, 2020; La autonomía de las personas. Una capacidad relacional, CEPC, 2018; “Access to opportunities in Multicultural Societies and the Relevance of Public Expfession”, Social and Legal Studies, vol.</description>
+    </item>
+    
+    <item>
+      <title>Arrancamos</title>
+      <link>https://iconsar.github.io/blog/primer_evento/</link>
+      <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://iconsar.github.io/blog/primer_evento/</guid>
+      <description>Queríamos compartir con ustedes el programa del primer encuentro del capítulo argentino de ICON•S. El encuentro tendrá lugar el 27 de mayo de 2021, entre las 10 y las 18 horas de acuerdo al cronograma que presentamos en el flyer. Vamos a discutir cuatro artículos o borradores que abordan temas de los más diversos. La modalidad es presentación, breve comentario, y discusión horizontal. Se presume lectura previa.
+¡Los esperamos! Si les interesa participar, nos pueden escribir a icon.</description>
     </item>
     
     <item>
@@ -129,15 +138,6 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
       
       <guid>https://iconsar.github.io/c_academico/ma/</guid>
       <description>Abogada con diploma de honor (Universidad de Buenos Aires, 2015). Máster en Derecho Constitucional (Centro de Estudios Políticos y Constitucionales de Madrid, 2017) con beca de la Fundación Carolina. Diploma &amp;ldquo;New trends in Constitutional Law&amp;rdquo; (Harvard Law School, 2018). Soy docente de derecho constitucional en la Facultad de Derecho de la Universidad de Buenos Aires. Investigo en el &amp;ldquo;Programa de Estudios Institucionales&amp;rdquo; del Instituto de Investigaciones Jurídicas y Sociales &amp;ldquo;Ambrosio L.</description>
-    </item>
-    
-    <item>
-      <title>Quienes somos</title>
-      <link>https://iconsar.github.io/blog/quienes_somos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://iconsar.github.io/blog/quienes_somos/</guid>
-      <description>Somos el capítulo argentino de ICON•S, la International Society of Public Law. Nuestro objetivo es perseguir la misión de ICON•S dentro de Argentina, difundir sus valores y promover el compromiso con un enfoque interdisciplinario del derecho público que involucre a académicas y abogados en derecho constitucional, administrativo e internacional para comprender mejor los desarrollos legales globales y transnacionales.</description>
     </item>
     
     <item>
