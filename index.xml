@@ -6,7 +6,7 @@
     <description>Recent content on ICON•S Argentina</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://iconsar.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -105,6 +105,17 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
     </item>
     
     <item>
+      <title>ICON•S Argentina en ICON Mundo</title>
+      <link>https://iconsar.github.io/blog/iconmundo/</link>
+      <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://iconsar.github.io/blog/iconmundo/</guid>
+      <description>Compartimos aquí el calendario de presentaciones / participaciones de integrantes del capítulo en el evento global ICON•S Mundo (al que, por cierto, todavía se pueden inscribir gratuitamente).
+  Gustavo Arballo coordina una disusión sobre federalismo → panel 26. Participa Damnian Azrak, Emiliano Vitaliani, Patricio Méndez Montenegro y María Lina Carrera. 🗓 6 de julio, 10:40
+  Pedro Caminos coordina una discusión sobre derecho internacional y &amp;ldquo;otras formas de cambiar al derecho público&amp;rdquo;.</description>
+    </item>
+    
+    <item>
       <title>Gabriel Pereira</title>
       <link>https://iconsar.github.io/c_academico/gp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -129,15 +140,6 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
       
       <guid>https://iconsar.github.io/c_academico/ma/</guid>
       <description>Abogada con diploma de honor (Universidad de Buenos Aires, 2015). Máster en Derecho Constitucional (Centro de Estudios Políticos y Constitucionales de Madrid, 2017) con beca de la Fundación Carolina. Diploma &amp;ldquo;New trends in Constitutional Law&amp;rdquo; (Harvard Law School, 2018). Soy docente de derecho constitucional en la Facultad de Derecho de la Universidad de Buenos Aires. Investigo en el &amp;ldquo;Programa de Estudios Institucionales&amp;rdquo; del Instituto de Investigaciones Jurídicas y Sociales &amp;ldquo;Ambrosio L.</description>
-    </item>
-    
-    <item>
-      <title>Quienes somos</title>
-      <link>https://iconsar.github.io/blog/quienes_somos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://iconsar.github.io/blog/quienes_somos/</guid>
-      <description>Somos el capítulo argentino de ICON•S, la International Society of Public Law. Nuestro objetivo es perseguir la misión de ICON•S dentro de Argentina, difundir sus valores y promover el compromiso con un enfoque interdisciplinario del derecho público que involucre a académicas y abogados en derecho constitucional, administrativo e internacional para comprender mejor los desarrollos legales globales y transnacionales.</description>
     </item>
     
     <item>
@@ -191,8 +193,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://iconsar.github.io/estatuto_2/</guid>
-      <description>El objetivo del Capítulo de Argentina es perseguir la misión de ICON•S dentro de Argentina, que es promover los valores de ICON•S y, en particular, el compromiso con un enfoque interdisciplinario del derecho público que involucre a académicas y abogados en derecho constitucional, administrativo e internacional para comprender mejor los desarrollos legales globales y transnacionales.
-Se establece el capítulo para  Promover los valores constitucionales fundamentales de democracia, igualdad, justicia y derechos humanos y su realización en el contexto argentino.</description>
+      <description>Estatuto El objetivo del Capítulo de Argentina es perseguir la misión de ICON•S dentro de Argentina, que es promover los valores de ICON•S y, en particular, el compromiso con un enfoque interdisciplinario del derecho público que involucre a académicas y abogados en derecho constitucional, administrativo e internacional para comprender mejor los desarrollos legales globales y transnacionales.
+Se establece el capítulo para Promover los valores constitucionales fundamentales de democracia, igualdad, justicia y derechos humanos y su realización en el contexto argentino.</description>
     </item>
     
     <item>
