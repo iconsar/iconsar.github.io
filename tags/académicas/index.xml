@@ -6,10 +6,19 @@
     <description>Recent content in Académicas on ICON•S Argentina</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 15 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 May 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://iconsar.github.io/tags/acad%C3%A9micas/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Presentación de libro</title>
+      <link>https://iconsar.github.io/blog/presentacio%CC%81n_libro_petracchi/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://iconsar.github.io/blog/presentacio%CC%81n_libro_petracchi/</guid>
+      <description>Presentación de un libro más de la colección &amp;ldquo;La Corte y sus presidencias&amp;rdquo;, dirigida por Paula Gaido y Laura Clérico →</description>
+    </item>
     
     <item>
       <title>Programa de estudios de actualización y profundización en derecho constitucional</title>
