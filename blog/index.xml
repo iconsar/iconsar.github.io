@@ -6,10 +6,19 @@
     <description>Recent content in Blogs on ICON•S Argentina</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 27 May 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 May 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://iconsar.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Encuentro anual ICON•S Argentina 2022</title>
+      <link>https://iconsar.github.io/blog/encuentro_anual/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://iconsar.github.io/blog/encuentro_anual/</guid>
+      <description>El futuro del derecho público en Argentina. Retomando la imaginación constitucional En todo el mundo, las instituciones democráticas parecen estar atravesando—-una vez más—-un momento de crisis. Están bajo tensión, presionadas por gobiernos que erosionan sus fundamentos y por una creciente insatisfacción ciudadana, que no encuentra en las instituciones representativas respuestas a sus demandas y deseos. ¿De qué manera fallan nuestras instituciones? ¿Qué causas profundas explican nuestra peculiar forma de crisis? ¿De qué manera puede contribuir la academia jurídica a afrontar estos desafíos?</description>
+    </item>
     
     <item>
       <title>Presentación de libro</title>
