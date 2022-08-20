@@ -50,13 +50,13 @@
 	vertical-align: middle;
 	font-size: 13px;
     font-weight: 4COde.00;
-	font-family: 'PT Mono', 'Jost', 'Futura', 'Source Sans Pro', sa;
+	font-family: 'Jost', 'Futura', 'Source Sans Pro', 'PT Mono', sa;
 }
 
 
 
 h1 h2 h3 h4 h5 h6 {
-	font-family: 'PT Sans Narrow', 'Jost', 'Futura', 'Source Sans Pro', sa;
+	font-family: 'Jost', 'Futura', 'Source Sans Pro', 'PT Sans Narrow', sa;
 	font-style: normal;
 	font-size: 22px;
 	font-weight: 700;
@@ -73,7 +73,7 @@ h1 h2 h3 h4 h5 h6 {
 
 .header .site-navbar .menu .menu-item {
     position: relative;
-    font-family: 'PT Sans Narrow', 'Jost', 'Futura', 'Jost';
+    font-family: 'Jost', 'Futura', 'PT Sans Narrow';
     font-size: 15px;  
 
 }
