@@ -50,13 +50,13 @@
 	vertical-align: middle;
 	font-size: 13px;
     font-weight: 4COde.00;
-	font-family: 'Jost', 'Futura', 'Source Sans Pro', 'PT Mono', sa;
+	font-family: 'Jost*','Source Sans Pro', 'PT Mono', sa;
 }
 
 
 
 h1 h2 h3 h4 h5 h6 {
-	font-family: 'Jost', 'Futura', 'Source Sans Pro', 'PT Sans Narrow', sa;
+	font-family: 'Jost*','Source Sans Pro', 'PT Sans Narrow', sa;
 	font-style: normal;
 	font-size: 22px;
 	font-weight: 700;
@@ -73,7 +73,7 @@ h1 h2 h3 h4 h5 h6 {
 
 .header .site-navbar .menu .menu-item {
     position: relative;
-    font-family: 'Jost', 'Futura', 'PT Sans Narrow';
+    font-family: 'Jost*','PT Sans Narrow';
     font-size: 15px;  
 
 }
@@ -141,7 +141,7 @@ img + em {
 
 
 h1 {
-	font-family: 'Jost', 'Futura', 'Source Sans Pro', sa;
+	font-family: 'Jost*','Source Sans Pro', sa;
 	font-style: normal;
 	font-size: 20px;
 	font-weight: 700;
@@ -149,7 +149,7 @@ h1 {
 }
 
 h2, h3 {
-	font-family: 'Jost', 'Futura', 'Source Sans Pro', sa;
+	font-family: 'Jost*','Source Sans Pro', sa;
 	font-style: normal;
 	font-size: 22px;
 	font-weight: 700;
@@ -157,7 +157,7 @@ h2, h3 {
 }
 
 h4, h5 {
-	font-family: 'Jost', 'Futura', 'Source Sans Pro', sa;
+	font-family: 'Jost*','Source Sans Pro', sa;
 	font-style: normal;
 	font-size: 18px;
 	color: #4d6d8c;
@@ -165,7 +165,7 @@ h4, h5 {
 }
 
 h6 {
-	font-family: 'Jost', 'Futura', 'Source Sans Pro', sa;
+	font-family: 'Jost*','Source Sans Pro', sa;
 	font-style: normal;
 	font-size: 16px;
 	font-weight: 600;
@@ -201,7 +201,7 @@ li a {
 
 .header .site-navbar .menu .menu-item {
     position: relative;
-    font-family: 'Jost', 'Futura', 'Jost';
+    font-family: 'Jost*','Jost*';'Arial',
     font-size: 15px;
     
     
@@ -216,7 +216,7 @@ li a {
 .archive .collection-title .archive-year {
 	font-size: 20px;
 	font-weight: 700;
-	font-family: 'Jost', 'Futura';
+	font-family: 'Jost*','Arial', 'Futura';
 
 
 }
@@ -224,21 +224,21 @@ li a {
 .archive .archive-post .archive-post-time {
 	font-size: 16px;
 	font-weight: 400;
-	font-family: 'Jost', 'Futura';
+	font-family: 'Jost*','Arial', 'Futura';
 
 }
 
 .archive .archive-post .archive-post-title {
 	font-size: 16px;
 	font-weight: 400;
-	font-family: 'Jost', 'Futura', 'Source Sans Pro', sans-serif;
+	font-family: 'Jost*','Source Sans Pro', sans-serif;
 	line-height: 1.5;
 
 }
 
 .post__header { 
 
-	font-family: 'Jost', 'Futura', 'Source Sans Pro', sa;
+	font-family: 'Jost*','Source Sans Pro', sa;
 	font-style: normal;
 	font-weight: 600;
 	font-size: 40px;
@@ -248,7 +248,7 @@ li a {
 
 .post .post-content h2 { 
 
-	font-family: 'Jost', 'Futura', 'Source Sans Pro', sa;
+	font-family: 'Jost*','Source Sans Pro', sa;
 	font-style: normal;
 	font-weight: 500;
 	font-size: 18px;
@@ -258,7 +258,7 @@ li a {
 
  .post .post-content h3 { 
 
-	font-family: 'Jost', 'Futura', 'Source Sans Pro', sans-serif;
+	font-family: 'Jost*','Source Sans Pro', sans-serif;
 	font-style: normal;
 	font-weight: 500;
 	font-size: 16px;
@@ -277,7 +277,7 @@ li a {
 
 .post .post-header .post-title{
 
-	font-family: 'Jost', 'Futura', 'Source Sans Pro', sa;
+	font-family: 'Jost*','Source Sans Pro', sa;
 	font-style: normal;
 	font-size: 22px;
 	font-weight: 600;
@@ -287,7 +287,7 @@ li a {
 
 .content .post .post-header{
 
-	font-family: 'Jost', 'Futura', 'Source Sans Pro', sa;
+	font-family: 'Jost*','Source Sans Pro', sa;
 	font-style: normal;
 	font-size: 18px;
 	font-weight: 500;
