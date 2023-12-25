@@ -2,10 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://iconsar.github.io/blog/icon_dnu/</loc>
+    <lastmod>2023-12-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iconsar.github.io/c_academico/bergallo/</loc>
+  </url><url>
     <loc>https://iconsar.github.io/blog/dnus/</loc>
     <lastmod>2023-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://iconsar.github.io/blog/icon_dnu/</loc>
+    <loc>https://iconsar.github.io/c_academico/garga/</loc>
+  </url><url>
+    <loc>https://iconsar.github.io/blog/dnus_rg/</loc>
     <lastmod>2023-12-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iconsar.github.io/blog/coloquio_uba_unsam/</loc>
@@ -35,9 +42,20 @@
     <loc>https://iconsar.github.io/blog/encuentro_anual_programa/</loc>
     <lastmod>2022-08-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://iconsar.github.io/c_academico/bergallo/</loc>
+    <loc>https://iconsar.github.io/blog/encuentro_anual/</loc>
+    <lastmod>2022-05-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://iconsar.github.io/c_academico/garga/</loc>
+    <loc>https://iconsar.github.io/blog/presentaci%C3%B3n_libro_petracchi/</loc>
+    <lastmod>2022-05-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iconsar.github.io/blog/programa/</loc>
+    <lastmod>2022-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iconsar.github.io/blog/seminario_pc/</loc>
+    <lastmod>2021-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iconsar.github.io/blog/presentacion/</loc>
+    <lastmod>2020-04-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iconsar.github.io/c_academico/lc/</loc>
   </url><url>
@@ -56,24 +74,6 @@
     <loc>https://iconsar.github.io/c_academico/sl/</loc>
   </url><url>
     <loc>https://iconsar.github.io/c_academico/sam/</loc>
-  </url><url>
-    <loc>https://iconsar.github.io/blog/encuentro_anual/</loc>
-    <lastmod>2022-05-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://iconsar.github.io/blog/presentaci%C3%B3n_libro_petracchi/</loc>
-    <lastmod>2022-05-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://iconsar.github.io/blog/programa/</loc>
-    <lastmod>2022-03-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://iconsar.github.io/blog/seminario_pc/</loc>
-    <lastmod>2021-07-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://iconsar.github.io/blog/iconmundo/</loc>
-    <lastmod>2021-07-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://iconsar.github.io/blog/presentacion/</loc>
-    <lastmod>2020-04-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iconsar.github.io/c_academico/gp/</loc>
   </url><url>
@@ -98,6 +98,9 @@
     <loc>https://iconsar.github.io/c_ejecutivo/ma/</loc>
   </url><url>
     <loc>https://iconsar.github.io/c_ejecutivo/rau/</loc>
+  </url><url>
+    <loc>https://iconsar.github.io/blog/iconmundo/</loc>
+    <lastmod>2021-07-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iconsar.github.io/c_ejecutivo/vr/</loc>
   </url><url>
