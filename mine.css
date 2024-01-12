@@ -143,7 +143,7 @@ img + em {
 h1 {
 	font-family: 'Jost', 'Futura', 'Source Sans Pro', sa;
 	font-style: normal;
-	font-size: 20px;
+	font-size: 21px;
 	font-weight: 700;
 	color: #34495e;
 }
@@ -151,7 +151,7 @@ h1 {
 h2, h3 {
 	font-family: 'Jost', 'Futura', 'Source Sans Pro', sa;
 	font-style: normal;
-	font-size: 22px;
+	font-size: 19px;
 	font-weight: 700;
 	color: #4d6d8c;
 }
