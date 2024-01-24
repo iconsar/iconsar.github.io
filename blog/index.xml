@@ -6,7 +6,7 @@
     <description>Recent content in Blogs on ICON•S Argentina</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Wed, 10 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://iconsar.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://iconsar.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Posición de ICON•S Argentina ante el DNU 70/2023</title>
       <link>https://iconsar.github.io/blog/icon_dnu/</link>
@@ -14,6 +14,15 @@
       
       <guid>https://iconsar.github.io/blog/icon_dnu/</guid>
       <description>El Decreto 70/2023 Este Decreto de Necesidad y Urgencia, que busca implementar una reforma legislativa masiva, incluyendo cambios y derogaciones de normativas de la más diversa temática, viene a exceder los límites de una medida excepcional, sin ajustarse a las situaciones que la Constitución contempla para su uso legítimo. Incluso sin entrar a valorar sus contenidos específicos, su amplitud y la falta de una urgencia claramente demostrada lo colocan fuera del estrecho y riguroso marco constitucional permitido para los DNU.</description>
+    </item>
+    
+    <item>
+      <title>Leyes en la mira: ¿por qué es urgente eliminar el género?</title>
+      <link>https://iconsar.github.io/blog/dnu_jc/</link>
+      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://iconsar.github.io/blog/dnu_jc/</guid>
+      <description>Tras la promulgación del Decreto de Necesidad y Urgencia (DNU) 70/2023 y poco después de su asunción, el presidente de la República Argentina, Javier Milei, convocó al Congreso de la Nación a sesiones extraordinarias mediante el Decreto 76/2023. Esta convocatoria tuvo el propósito de abordar diversos convenios económicos con empresas extranjeras y presentar el proyecto de Ley de Reforma del Estado. Finalmente, el proyecto de ley fue ingresado bajo el título &amp;ldquo;Proyecto de Ley de Bases y Puntos de Partida para la Libertad de los Argentinos, también conocida coloquialmente como Ley Ómnibus&amp;rdquo; (en delante PLO), actualmente en debate de comisión.</description>
     </item>
     
     <item>
@@ -186,10 +195,10 @@ Lecturas → La Corte desde adentro (Boffi Boggero, Oyhanarte, Rosatti)</descrip
     
     <item>
       <title>Presentación de libro</title>
-      <link>https://iconsar.github.io/blog/presentaci%C3%B3n_libro_petracchi/</link>
+      <link>https://iconsar.github.io/blog/presentacio%CC%81n_libro_petracchi/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://iconsar.github.io/blog/presentaci%C3%B3n_libro_petracchi/</guid>
+      <guid>https://iconsar.github.io/blog/presentacio%CC%81n_libro_petracchi/</guid>
       <description>Presentación de un libro más de la colección &amp;ldquo;La Corte y sus presidencias&amp;rdquo;, dirigida por Paula Gaido y Laura Clérico →</description>
     </item>
     
