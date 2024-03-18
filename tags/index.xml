@@ -1,38 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on ICON•S Argentina</title>
-    <link>https://iconsar.github.io/tags/</link>
-    <description>Recent content in Tags on ICON•S Argentina</description>
+    <title>Tags on </title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es</language>
-    <lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://iconsar.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Académicas</title>
-      <link>https://iconsar.github.io/tags/acad%C3%A9micas/</link>
+      <link>/tags/acad%C3%A9micas/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://iconsar.github.io/tags/acad%C3%A9micas/</guid>
+      <guid>/tags/acad%C3%A9micas/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Simposio DNU70</title>
-      <link>https://iconsar.github.io/tags/simposio-dnu70/</link>
+      <link>/tags/simposio-dnu70/</link>
       <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://iconsar.github.io/tags/simposio-dnu70/</guid>
+      <guid>/tags/simposio-dnu70/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Institucional</title>
-      <link>https://iconsar.github.io/tags/institucional/</link>
+      <link>/tags/institucional/</link>
       <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://iconsar.github.io/tags/institucional/</guid>
+      <guid>/tags/institucional/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
