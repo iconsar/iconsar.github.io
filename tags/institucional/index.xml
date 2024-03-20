@@ -6,21 +6,27 @@
     <description>Recent content in Institucional on ICON•S Argentina</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 05 Jul 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://iconsar.github.io/tags/institucional/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://iconsar.github.io/tags/institucional/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arrancamos</title>
       <link>https://iconsar.github.io/blog/presentacion/</link>
       <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://iconsar.github.io/blog/presentacion/</guid>
-      <description>Queríamos compartir con ustedes el programa del primer encuentro del capítulo argentino de ICON•S. El encuentro tendrá lugar el 27 de mayo de 2021, entre las 10 y las 18 horas de acuerdo al cronograma que presentamos en el flyer. Vamos a discutir cuatro artículos o borradores que abordan temas de los más diversos. La modalidad es presentación, breve comentario, y discusión horizontal. Se presume lectura previa.&#xA;¡Los esperamos! Si les interesa participar, nos pueden escribir a icon.</description>
+      <description>Queríamos compartir con ustedes el programa del primer encuentro del capítulo argentino de ICON•S. El encuentro tendrá lugar el 27 de mayo de 2021, entre las 10 y las 18 horas de acuerdo al cronograma que presentamos en el flyer. Vamos a discutir cuatro artículos o borradores que abordan temas de los más diversos. La modalidad es presentación, breve comentario, y discusión horizontal. Se presume lectura previa.
+¡Los esperamos! Si les interesa participar, nos pueden escribir a icon.</description>
     </item>
+    
     <item>
       <title>ICON•S Argentina en ICON Mundo</title>
       <link>https://iconsar.github.io/blog/iconmundo/</link>
       <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
+      
       <guid>https://iconsar.github.io/blog/iconmundo/</guid>
-      <description>Compartimos aquí el calendario de presentaciones / participaciones de integrantes del capítulo en el evento global ICON•S Mundo (al que, por cierto, todavía se pueden inscribir gratuitamente).&#xA;Gustavo Arballo coordina una disusión sobre federalismo → panel 26. Participa Damián Azrak, Emiliano Vitaliani, Patricio Méndez Montenegro y María Lina Carrera. 🗓 6 de julio, 10:40&#xA;Pedro Caminos coordina una discusión sobre derecho internacional y &amp;ldquo;otras formas de cambiar al derecho público&amp;rdquo;. Panel 50.</description>
+      <description>Compartimos aquí el calendario de presentaciones / participaciones de integrantes del capítulo en el evento global ICON•S Mundo (al que, por cierto, todavía se pueden inscribir gratuitamente).
+Gustavo Arballo coordina una disusión sobre federalismo → panel 26. Participa Damián Azrak, Emiliano Vitaliani, Patricio Méndez Montenegro y María Lina Carrera. 🗓 6 de julio, 10:40
+Pedro Caminos coordina una discusión sobre derecho internacional y &amp;ldquo;otras formas de cambiar al derecho público&amp;rdquo;. Panel 50.</description>
     </item>
+    
   </channel>
 </rss>
