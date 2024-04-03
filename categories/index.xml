@@ -5,6 +5,7 @@
     <link>https://iconsar.github.io/categories/</link>
     <description>Recent content in Categories on ICON•S Argentina</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es</language><atom:link href="https://iconsar.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>es</language>
+    <atom:link href="https://iconsar.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
