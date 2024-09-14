@@ -1,0 +1,58 @@
+baseurl = "https://iconsar.github.io/"
+title = "ICON•S Argentina"
+languageCode = "es"
+defaultContentLanguage = "es"     
+paginate = "15" # Number of posts per page
+theme = "mainroad"
+disqusShortname = "" # Enable Disqus comments by entering your Disqus shortname
+googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+
+[params.author.name]
+
+[Params]
+
+  logo = "/img/ICONS-AR-Chapter.png"
+  subtitle = "Capítulo argentino de la International Society of Public Law" # Subtitle of your site. Used in site header
+  description = "Capítulo argentino de la International Society of Public Law" # Site description. Used in meta description
+  copyright = "ICON•S Argentina" # Footer copyright holder, otherwise will use site title
+  opengraph = true # Enable OpenGraph if true
+  twitter_cards = true # Enable Twitter Cards if true
+  readmore = false # Show "Read more" button in list if true
+  authorbox = true # Show authorbox at bottom of pages if true
+  toc = true # Enable Table of Contents
+  post_navigation = true # Show post navigation at bottom of pages if true
+  post_meta = ["date", "categories", "translations", "author"] # Order of post meta information
+  mainSections = ["post", "blog", "news"] # Specify section pages to show on home page and the "Recent articles" widget
+  dateformat = "2006-01-02" # Change the format of dates
+  mathjax = true # Enable MathJax
+  mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path
+  mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config
+  highlightColor = "#e22d30" # Override highlight color
+  customCSS = ["css/custom2.css"] # Include custom CSS files
+
+[Params.style.vars]
+  highlightColor = "#e22d30" # Override highlight color
+
+  # Override font-family sets
+  # Take care of different quotes OR escaping symbols in these params if necessary
+  fontFamilyPrimary = "'MyFont','Jost*','Arial', 'Futura', 'Source Sans Pro', 'PT Mono', sa"
+  # Secondary font-family set responsible for pre, code, kbd, and samp tags font
+  fontFamilySecondary = "'MyFont','Jost*','Arial', 'Futura', 'Source Sans Pro', 'PT Mono', sa"
+
+
+[Params.sidebar]
+  home = "right" # Configure layout for home page
+  list = false  # Configure layout for list pages
+  single = false # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["search", "recent", "taglist", "social", "languages"]
+
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget
+
+[Params.widgets.social]
+  # Enable parts of social widget
+  facebook = "iconsargentina"
+  twitter = "@icon_s_arg"
+  email = "icon.arg.s@gmail.com"
