@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Comité Ejecutivo on ICON•S Argentina</title>
-    <link>http://localhost:1313/c_ejecutivo/</link>
+    <link>https://iconsar.github.io/c_ejecutivo/</link>
     <description>Recent content in Comité Ejecutivo on ICON•S Argentina</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/c_ejecutivo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://iconsar.github.io/c_ejecutivo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Leticia Vita</title>
-      <link>http://localhost:1313/c_ejecutivo/lv/</link>
+      <link>https://iconsar.github.io/c_ejecutivo/lv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/c_ejecutivo/lv/</guid>
+      <guid>https://iconsar.github.io/c_ejecutivo/lv/</guid>
       <description>Abogada, Licenciada en Ciencias Políticas y Doctora en Derecho por la Universidad de Buenos Aires. Profesora Adjunta Regular con Dedicación Exclusiva de Teoría del Estado, Facultad de Derecho, Universidad de Buenos Aires. Investigadora del CONICET e Investigadora Formada del Instituto de Investigaciones A. L. Gioja, Facultad de Derecho, Universidad de Buenos Aires. Miembro de la Red de Profesoras de la Facultad de Derecho de la Universidad de Buenos Aires y de la Red de Politólogas #NoSinMujeres.</description>
     </item>
     <item>
       <title>Agustina Ramon Michel</title>
-      <link>http://localhost:1313/c_ejecutivo/arm/</link>
+      <link>https://iconsar.github.io/c_ejecutivo/arm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/c_ejecutivo/arm/</guid>
+      <guid>https://iconsar.github.io/c_ejecutivo/arm/</guid>
       <description>Profesora de derecho en la Universidad de Palermo. Investigo desde un enfoque sociolegal, temas de derecho público, especialmente de salud &amp;amp; género. Trabajo, en general, de manera interdisciplinaria. Prefiero ante todo entender, luego argumentar o criticar. Lo empírico me permite pensar lo normativo y viceversa. Enseño cursos de género y políticas públicas, de salud, y de introducción al derecho y derechos humanos. Soy también investigadora asociada del CEDES, e integrante de la Red Alas.</description>
     </item>
     <item>
       <title>Horacio Etchichury</title>
-      <link>http://localhost:1313/c_ejecutivo/he/</link>
+      <link>https://iconsar.github.io/c_ejecutivo/he/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/c_ejecutivo/he/</guid>
+      <guid>https://iconsar.github.io/c_ejecutivo/he/</guid>
       <description>Doctor en Derecho y Ciencias Sociales (Universidad Nacional de Córdoba [UNC], 2010). Master of Laws (Yale Law School, 2004). Abogado (UNC, 2000). Licenciado en Comunicación Social (UNC, 1997). Investigador Adjunto, CONICET. Profesor Titular, Instituciones Argentinas, Facultad de Filosofía y Humanidades, UNC. Profesor Adjunto, Introducción al Derecho y Profesor Ayudante, Derecho Constitucional, Facultad de Derecho, UNC. Director del Grupo de Investigación en Derechos Sociales (GIDES), UNC. Publicaciones en: etchichury.blogspot.com</description>
     </item>
     <item>
       <title>Magdalena Álvarez</title>
-      <link>http://localhost:1313/c_ejecutivo/ma/</link>
+      <link>https://iconsar.github.io/c_ejecutivo/ma/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/c_ejecutivo/ma/</guid>
+      <guid>https://iconsar.github.io/c_ejecutivo/ma/</guid>
       <description>Doctora en Derecho y Ciencias Sociales (UNC). Magister en Derecho y Argumentación (UNC). Abogada (UNC). Profesora Adjunta de Derecho Constitucional. Profesora Adjunta de Derecho Procesal Constitucional (Facultad de Derecho, UNC). Profesora de Posgrado (Universidad Siglo 21). Codirectora del Grupo de Investigación en Derechos Sociales (GIDES).</description>
     </item>
     <item>
       <title>Ramiro Álvarez Ugarte</title>
-      <link>http://localhost:1313/c_ejecutivo/rau/</link>
+      <link>https://iconsar.github.io/c_ejecutivo/rau/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/c_ejecutivo/rau/</guid>
+      <guid>https://iconsar.github.io/c_ejecutivo/rau/</guid>
       <description>Profesor de derecho constitucional Universidad de Buenos Aires (JTP). Profesor de la Maestría en Derecho Constitucional de la Universidad de Palermo. Investigador del Centro de Estudios en Libertad de Expresión (CELE) de la Universidad de Palermo. Doctor en derecho por la Universidad de Columbia, Nueva York.</description>
     </item>
     <item>
       <title>Victoria Ricciardi</title>
-      <link>http://localhost:1313/c_ejecutivo/vr/</link>
+      <link>https://iconsar.github.io/c_ejecutivo/vr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/c_ejecutivo/vr/</guid>
+      <guid>https://iconsar.github.io/c_ejecutivo/vr/</guid>
       <description>Abogada, con diploma de honor, de la Universidad de Buenos Aires (UBA). Especialista en Derecho Administrativo de la Universidad de Belgrano. Obtuvo un LLM en Derecho Constitucional Comparado de la Universidad de Texas at Austin (UT). Es docente de la Facultad de Derecho y de Posgrado de Género y Derecho de la UBA. Becaria Fulbright y Human Rights Scholar del Rapaport Center of Human Rights and Justice de la Escuela de Derecho de la Universidad de Texas at Austin.</description>
     </item>
   </channel>
