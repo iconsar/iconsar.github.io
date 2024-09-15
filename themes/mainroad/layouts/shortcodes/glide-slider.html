@@ -1,0 +1,7 @@
+<div class="slick-slider">
+  {{ range .Page.Params.images }}
+  <div>
+    <img src="{{ . }}" alt="Gallery Image" />
+  </div>
+  {{ end }}
+</div>
