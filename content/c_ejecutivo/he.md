@@ -2,7 +2,7 @@
 # Common-Defined params
 title: "Horacio Etchichury"
 role: 
-date: 
+date: 2021-04-01
 description: Universidad Nacional de Córdoba
 categories:
 tags:

@@ -1,7 +1,7 @@
 ---
 # Common-Defined params
 title: "Blog"
-date: 
+date: 2021-04-01
 description: 
 categories:
 tags:

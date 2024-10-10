@@ -2,7 +2,7 @@
 # Common-Defined params
 title: "Paola Bergallo"
 role: 
-date: 
+date: 2024-10-02
 description: Profesora Asociada de la Universidad Torcuato Di Tella. Investigadora adjunta del CONICET. 
 categories:
 tags:

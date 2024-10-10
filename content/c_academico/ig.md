@@ -2,7 +2,7 @@
 # Common-Defined params
 title: "Ignacio Giuffré"
 role: 
-date: 
+date: 2021-04-01
 description: Investigador, Universitat Pompeu Fabra
 categories:
 tags:

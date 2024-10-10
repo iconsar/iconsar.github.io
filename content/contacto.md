@@ -1,7 +1,7 @@
 ---
 # Common-Defined params
 title: "Contacto"
-date: 
+date: 2021-04-01
 description: "Example article description"
 categories:
 tags:

@@ -2,7 +2,7 @@
 # Common-Defined params
 title: "Ramiro Álvarez Ugarte"
 role: 
-date: 
+date: 2021-04-01
 description: Profesor de derecho constitucional, Universidad Nacional de Buenos Aires. 
 categories:
 tags:

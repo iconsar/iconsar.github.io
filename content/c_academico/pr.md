@@ -2,7 +2,7 @@
 # Common-Defined params
 title: "Pablo Riberi"
 role: 
-date: 
+date: 2021-04-01
 description: Facultad de Derecho UNC / Facultad de Ciencia Política y RRII UCC
 categories:
 tags:

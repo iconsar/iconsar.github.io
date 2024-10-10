@@ -2,7 +2,7 @@
 # Common-Defined params
 title: "Leticia Vita"
 role: 
-date: 
+date: 2021-04-01
 description: Profesora de Teoría del Estado, Universidad de Buenos Aires. Investigadora del CONICET. 
 categories:
 tags:

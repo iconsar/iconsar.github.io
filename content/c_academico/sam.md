@@ -2,7 +2,7 @@
 # Common-Defined params
 title: "Silvina Álvarez Medina"
 role: 
-date: 
+date: 2021-04-01
 description: Profesora de Filosofía del Derecho de la Universidad Autónoma de Madrid
 categories:
 tags:

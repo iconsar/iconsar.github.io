@@ -2,7 +2,7 @@
 # Common-Defined params
 title: "Victoria Ricciardi"
 role: 
-date: 
+date: 2021-04-01
 description: Universidad de Buenos Aires
 categories:
 tags:

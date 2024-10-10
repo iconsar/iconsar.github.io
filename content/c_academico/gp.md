@@ -2,7 +2,7 @@
 # Common-Defined params
 title: "Gabriel Pereira"
 role: 
-date: 
+date: 2021-04-01
 description: Facultad de Derecho y Ciencias Sociales de la Universidad Nacional de Tucuman - CONICET 
 categories:
 tags:

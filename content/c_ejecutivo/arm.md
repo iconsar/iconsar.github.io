@@ -2,7 +2,7 @@
 # Common-Defined params
 title: "Agustina Ramon Michel"
 role: 
-date: 
+date: 2021-04-01
 description: Universidad de Palermo
 categories:
 tags:

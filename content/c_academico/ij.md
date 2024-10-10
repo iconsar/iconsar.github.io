@@ -2,7 +2,7 @@
 # Common-Defined params
 title: "Ines Jaureguiberry"
 role: 
-date: 
+date: 2021-04-01
 description: Profesora de derecho constitucional en la UBA, UNLP y UP
 categories:
 tags:

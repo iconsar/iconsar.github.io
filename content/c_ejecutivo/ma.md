@@ -2,7 +2,7 @@
 # Common-Defined params
 title: "Magdalena Álvarez"
 role: 
-date: 
+date: 2021-04-01
 description: Universidad Nacional de Córdoba, Facultad de Derecho 
 categories:
 tags:

@@ -2,7 +2,7 @@
 # Common-Defined params
 title: "Mariela Puga"
 role: 
-date: 
+date: 2021-04-01
 description: Profesora de Derecho Constitucional de la Universidad de Buenos Aires
 categories:
 tags:

@@ -2,130 +2,137 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Académicas on ICON•S Argentina</title>
-    <link>http://localhost:1313/tags/acad%C3%A9micas/</link>
+    <link>https://iconsar.github.io/tags/acad%C3%A9micas/</link>
     <description>Recent content in Académicas on ICON•S Argentina</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 12 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/acad%C3%A9micas/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://iconsar.github.io/tags/acad%C3%A9micas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tertulias: Constitucionalismo Feminista. El Feminismo En La Raíz Del Constitucionalismo</title>
+      <link>https://iconsar.github.io/blog/tertulias_2/</link>
+      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://iconsar.github.io/blog/tertulias_2/</guid>
+      <description>&lt;p&gt;[¡Compartimos información de colegas de Córdoba!]&lt;/p&gt;&#xA;&lt;p&gt;En este segundo ciclo nos introducimos a fondo en preguntas como: ¿Cuánto de la idea de “poder constituyente” que hoy tenemos sigue embebida de las ideas de diferenciación sexual que se sancionaron con las primeras constituciones? ¿En qué medida ese poder constituyente responde a un “arquetipo viril” de la legitimidad del estado de derecho?&lt;/p&gt;&#xA;&lt;p&gt;🗓️ Inicia el lunes 14 de octubre de 2024, de 13:30 a 15 hs. (ART - Zona argentina estándar)&lt;/p&gt;</description>
+    </item>
     <item>
       <title>¡Gracias Santa Fe!</title>
-      <link>http://localhost:1313/blog/gracias_santa_fe/</link>
+      <link>https://iconsar.github.io/blog/gracias_santa_fe/</link>
       <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/gracias_santa_fe/</guid>
-      <description>Queremos agradecer sinceramente a quienes participaron del evento de ICON•S Argentina en la Facultad de Ciencias Jurídicas y Sociales de la Universidad Nacional del Litoral en Santa Fe. Fue un encuentro intenso, amable, y enriquecedor&amp;mdash;en la ya cada vez más estable tradición de nuestro espacio. ¡Algunas fotos del encuentro!</description>
+      <guid>https://iconsar.github.io/blog/gracias_santa_fe/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://iconsar.github.io/img/santafe_thumb.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Queremos agradecer sinceramente a quienes participaron del evento de ICON•S Argentina en la Facultad de Ciencias Jurídicas y Sociales de la Universidad Nacional del Litoral en Santa Fe. Fue un encuentro intenso, amable, y enriquecedor&amp;mdash;en la ya cada vez más estable tradición de nuestro espacio. &lt;/p&gt;&#xA;&lt;p&gt;¡Algunas fotos del encuentro!&lt;/p&gt;&#xA;&lt;div class=&#34;slick-slider&#34;&gt;&#xA;  &#xA;  &lt;div&gt;&#xA;    &lt;img src=&#34;https://iconsar.github.io/img/santafe_1.jpg&#34; alt=&#34;Gallery Image&#34; /&gt;&#xA;  &lt;/div&gt;&#xA;  &#xA;  &lt;div&gt;&#xA;    &lt;img src=&#34;https://iconsar.github.io/img/santafe_2.jpg&#34; alt=&#34;Gallery Image&#34; /&gt;&#xA;  &lt;/div&gt;&#xA;  &#xA;  &lt;div&gt;&#xA;    &lt;img src=&#34;https://iconsar.github.io/img/santafe_3.jpg&#34; alt=&#34;Gallery Image&#34; /&gt;&#xA;  &lt;/div&gt;&#xA;  &#xA;  &lt;div&gt;&#xA;    &lt;img src=&#34;https://iconsar.github.io/img/santafe_4.jpg&#34; alt=&#34;Gallery Image&#34; /&gt;&#xA;  &lt;/div&gt;&#xA;  &#xA;  &lt;div&gt;&#xA;    &lt;img src=&#34;https://iconsar.github.io/img/santafe_5.jpg&#34; alt=&#34;Gallery Image&#34; /&gt;&#xA;  &lt;/div&gt;&#xA;  &#xA;  &lt;div&gt;&#xA;    &lt;img src=&#34;https://iconsar.github.io/img/santafe_6.jpg&#34; alt=&#34;Gallery Image&#34; /&gt;&#xA;  &lt;/div&gt;&#xA;  &#xA;  &lt;div&gt;&#xA;    &lt;img src=&#34;https://iconsar.github.io/img/santafe_7.jpg&#34; alt=&#34;Gallery Image&#34; /&gt;&#xA;  &lt;/div&gt;&#xA;  &#xA;  &lt;div&gt;&#xA;    &lt;img src=&#34;https://iconsar.github.io/img/santafe_8.jpg&#34; alt=&#34;Gallery Image&#34; /&gt;&#xA;  &lt;/div&gt;&#xA;  &#xA;  &lt;div&gt;&#xA;    &lt;img src=&#34;https://iconsar.github.io/img/santafe_9.jpg&#34; alt=&#34;Gallery Image&#34; /&gt;&#xA;  &lt;/div&gt;&#xA;  &#xA;  &lt;div&gt;&#xA;    &lt;img src=&#34;https://iconsar.github.io/img/santafe_10.jpg&#34; alt=&#34;Gallery Image&#34; /&gt;&#xA;  &lt;/div&gt;&#xA;  &#xA;  &lt;div&gt;&#xA;    &lt;img src=&#34;https://iconsar.github.io/img/santafe_11.jpg&#34; alt=&#34;Gallery Image&#34; /&gt;&#xA;  &lt;/div&gt;&#xA;  &#xA;  &lt;div&gt;&#xA;    &lt;img src=&#34;https://iconsar.github.io/img/santafe_12.jpg&#34; alt=&#34;Gallery Image&#34; /&gt;&#xA;  &lt;/div&gt;&#xA;  &#xA;  &lt;div&gt;&#xA;    &lt;img src=&#34;https://iconsar.github.io/img/santafe_13.jpg&#34; alt=&#34;Gallery Image&#34; /&gt;&#xA;  &lt;/div&gt;&#xA;  &#xA;  &lt;div&gt;&#xA;    &lt;img src=&#34;https://iconsar.github.io/img/santafe_14.jpg&#34; alt=&#34;Gallery Image&#34; /&gt;&#xA;  &lt;/div&gt;&#xA;  &#xA;  &lt;div&gt;&#xA;    &lt;img src=&#34;https://iconsar.github.io/img/santafe_15.jpg&#34; alt=&#34;Gallery Image&#34; /&gt;&#xA;  &lt;/div&gt;&#xA;  &#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Programa Santa Fe 2024 - Imaginación constitucional para una Argentina en crisis</title>
-      <link>http://localhost:1313/blog/santa_fe/</link>
+      <link>https://iconsar.github.io/blog/santa_fe/</link>
       <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/santa_fe/</guid>
-      <description>Imaginación constitucional para una Argentina en crisis 29 y 30 de agosto de 2024&#xA;Este año se cumplen treinta años de la reforma constitucional de 1994 y como toda conmemoración, nos convoca a una reflexión sobre su legado histórico pero también sobre su actualidad y vigencia. El aniversario encuentra a la Argentina atravesando un período de extrema vulnerabilidad democrática, en línea con otras democracias de occidente que en los últimos años han vivido experiencias similares.</description>
+      <guid>https://iconsar.github.io/blog/santa_fe/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://iconsar.github.io/img/flyer_cuarto_encuentro_titulo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;imaginación-constitucional-para-una-argentina-en-crisis&#34;&gt;&lt;em&gt;&lt;strong&gt;Imaginación constitucional para una Argentina en crisis&lt;/strong&gt;&lt;/em&gt;&lt;/h2&gt;&#xA;&lt;p&gt;29 y 30 de agosto de 2024&lt;/p&gt;&#xA;&lt;p&gt;Este año se cumplen treinta años de la reforma constitucional de 1994 y como toda conmemoración, nos convoca a una reflexión sobre su legado histórico pero también sobre su actualidad y vigencia. El aniversario encuentra a la Argentina atravesando un período de extrema vulnerabilidad democrática, en línea con otras democracias de occidente que en los últimos años han vivido experiencias similares. En nuestro caso, la tensión bajo la que se encuentra el sistema político es el resultado de dos sucesos vinculados entre sí: el surgimiento de nuevos actores políticos cuyo compromiso con la democracia parece débil y una persistente y grave crisis económica. En este escenario, resulta relevante trazar un balance que vincule al diseño del constitucional argentino en todos los niveles con nuestro presente. ¿Qué quiso hacer la reforma de 1994? ¿Qué herramientas ofrece para lidiar con las tensiones actuales? ¿Cuál es su relevancia histórica y su legado? ¿En qué tuvo éxito y en qué fracasó? ¿Cómo se llevan nuestras instituciones con las crisis y con las emergencias? ¿Cómo podemos mejorarlas y protegerlas?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tertulias: Constitucionalismo feminista. El feminismo en la raíz del constitucionalismo</title>
-      <link>http://localhost:1313/blog/constitucionalismo_feminista/</link>
+      <link>https://iconsar.github.io/blog/constitucionalismo_feminista/</link>
       <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/constitucionalismo_feminista/</guid>
-      <description>Compartimos y auspiciamos una actividad organizada por colegas de la Universidad Nacional de Córdoba y la Red Alas. ¡Súmense!&#xA;¿De qué se trata? Es un seminario semanal de lecturas, para reflexionar críticamente sobre los presupuestos del constitucionalismo desde una perspectiva feminista. En este primer ciclo (de julio a septiembre) conversaremos sobre las ideas de las feministas que participaron en los procesos políticos del primer constitucionalismo, y se borraron de la narrativa constitucional clásica.</description>
+      <guid>https://iconsar.github.io/blog/constitucionalismo_feminista/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://iconsar.github.io/img/tertulias.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Compartimos y auspiciamos una actividad organizada por colegas de la &lt;strong&gt;Universidad Nacional de Córdoba&lt;/strong&gt; y la &lt;strong&gt;Red Alas&lt;/strong&gt;. ¡Súmense!&lt;/p&gt;&#xA;&lt;h1 id=&#34;de-qué-se-trata&#34;&gt;¿De qué se trata?&lt;/h1&gt;&#xA;&lt;p&gt;Es un seminario semanal de lecturas, para reflexionar críticamente sobre los presupuestos del constitucionalismo desde una perspectiva feminista. En este primer ciclo (de julio a septiembre) conversaremos sobre las ideas de las feministas que participaron en los procesos políticos del primer constitucionalismo, y se borraron de la narrativa constitucional clásica. ¿Qué nos dicen aquellas ideas sobre los conceptos de contrato social y de poder constituyente como hoy los entendemos?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Imaginación constitucional para una Argentina en crisis</title>
-      <link>http://localhost:1313/blog/cuarto_encuentro_conv/</link>
+      <link>https://iconsar.github.io/blog/cuarto_encuentro_conv/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/cuarto_encuentro_conv/</guid>
-      <description>Este año se cumplen treinta años de la reforma constitucional de 1994 y como toda conmemoración, nos convoca a una reflexión sobre su legado histórico pero también sobre su actualidad y vigencia. El aniversario encuentra a la Argentina atravesando un período de extrema vulnerabilidad democrática, en línea con otras democracias de occidente que en los últimos años han vivido experiencias similares.&#xA;En nuestro caso, la tensión bajo la que se encuentra el sistema político es el resultado de dos sucesos vinculados entre sí: el surgimiento de nuevos actores políticos cuyo compromiso con la democracia parece débil y una persistente y grave crisis económica.</description>
+      <guid>https://iconsar.github.io/blog/cuarto_encuentro_conv/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://iconsar.github.io/img/flyer_cuarto_encuentro_titulo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Este año se cumplen treinta años de la reforma constitucional de 1994 y como toda conmemoración, nos convoca a una reflexión sobre su legado histórico pero también sobre su actualidad y vigencia. El aniversario encuentra a la Argentina atravesando un período de extrema vulnerabilidad democrática, en línea con otras democracias de occidente que en los últimos años han vivido experiencias similares.&lt;/p&gt;&#xA;&lt;p&gt;En nuestro caso, la tensión bajo la que se encuentra el sistema político es el resultado de dos sucesos vinculados entre sí: el surgimiento de nuevos actores políticos cuyo compromiso con la democracia parece débil y una persistente y grave crisis económica. En este escenario, resulta relevante trazar un balance que vincule al diseño  del constitucional argentino en todos los niveles con nuestro presente. ¿Qué quiso hacer la reforma de 1994? ¿Qué herramientas ofrece para lidiar con las tensiones actuales? ¿Cuál es su relevancia histórica y su legado? ¿En qué tuvo éxito y en qué fracasó? ¿Cómo se llevan nuestras instituciones con las crisis y con las emergencias? ¿Cómo podemos mejorarlas y protegerlas?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Actividades UBA/UNSAM</title>
-      <link>http://localhost:1313/blog/coloquio_uba_unsam/</link>
+      <link>https://iconsar.github.io/blog/coloquio_uba_unsam/</link>
       <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/coloquio_uba_unsam/</guid>
-      <description>En el marco de la visita de la profesora Francisca Pou Giménez de la Universidad Autónoma de México (UNAM) a Buenos Aires, se llevarán a cabo varias actividades (algunas con transmisión por Internet). Entre ellas, la presentación del libro Proportionality and Transformation. Theory and Practice from Latin America (Martes 19 de septiembre a las 17.15) y los coloquios UBA/UNSAM Desigualdades de géneros: logros y desafíos en perspectivas comparadas (18, 20 y 21 de septiembre de 2023), y Constitucionalismo Feminista Latinoamericano (Lunes 18 de septiembre, de 14 a 17 hs).</description>
+      <guid>https://iconsar.github.io/blog/coloquio_uba_unsam/</guid>
+      <description>&lt;p&gt;En el marco de la visita de la profesora Francisca Pou Giménez de la Universidad Autónoma de México (UNAM) a Buenos Aires, se llevarán a cabo varias actividades (algunas con transmisión por Internet). Entre ellas, la &lt;a href=&#34;&#34;&gt;presentación del libro&lt;/a&gt; &lt;em&gt;Proportionality and Transformation. Theory and Practice from Latin America&lt;/em&gt; (Martes 19 de septiembre a las 17.15) y los coloquios UBA/UNSAM &lt;em&gt;Desigualdades de géneros: logros y desafíos en perspectivas comparadas&lt;/em&gt; (18, 20 y 21 de septiembre de 2023), y &lt;em&gt;Constitucionalismo Feminista Latinoamericano&lt;/em&gt; (Lunes 18 de septiembre, de 14 a 17 hs). Pueden encontrar más información sobre los tres eventos en los siguientes links (en PDF).&lt;/p&gt;</description>
     </item>
     <item>
       <title>¡Gracias Tucumán!</title>
-      <link>http://localhost:1313/blog/gracias_tucuman/</link>
+      <link>https://iconsar.github.io/blog/gracias_tucuman/</link>
       <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/gracias_tucuman/</guid>
-      <description>En Tucumán tuvimos dos días intensos, de discusiones cordiales pero agudas, de trabajos extraordinarios y mesas relevantes&amp;mdash;y algo urgentes&amp;mdash;sobre los 40 años de la democracia argentina. La experiencia igualitaria, inter-generacional, y el impulso de investigaciones empíricas e interdisciplinarias es parte de lo que explica el nacimiento de nuestro espacio y los días tucumanos fueron un fiel reflejo de esos objetivos. Gracias a la Facultad de Derecho de la Universidad Nacional de Tucumán, a su decana, y muy especialmente a los integrantes del capítulo que nos recibieron con tanta amabilidad y dedicación.</description>
+      <guid>https://iconsar.github.io/blog/gracias_tucuman/</guid>
+      <description>&lt;p&gt;En Tucumán tuvimos dos días intensos, de discusiones cordiales pero agudas, de trabajos extraordinarios y mesas relevantes&amp;mdash;y algo urgentes&amp;mdash;sobre los 40 años de la democracia argentina. La experiencia igualitaria, inter-generacional, y el impulso de investigaciones empíricas e interdisciplinarias es parte de lo que explica el nacimiento de nuestro espacio y los días tucumanos fueron un fiel reflejo de esos objetivos. Gracias a la Facultad de Derecho de la Universidad Nacional de Tucumán, a su decana, y muy especialmente a los integrantes del capítulo que nos recibieron con tanta amabilidad y dedicación. Abajo algunas fotos del encuentro.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Programa Tucumán 2023</title>
-      <link>http://localhost:1313/blog/tucuman/</link>
+      <link>https://iconsar.github.io/blog/tucuman/</link>
       <pubDate>Sat, 24 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/tucuman/</guid>
-      <description>Compartimos el programa de nuestro tercer encuentro anual que se llevará a cabo el 24 y 25 de agosto en la ciudad de Tucumán. La pregunta que ordena nuestro encuentra se relaciona con la contribución del derecho a la democracia, a cuarenta años de su recuperación. El derecho, ¿ha ayudado a la democracia? ¿De qué maneras, en qué formas? ¿Qué hizo y qué no hizo el derecho para consolidarla, y qué puede hacer&amp;mdash;de aquí en adelante&amp;mdash;para fortalecerla?</description>
+      <guid>https://iconsar.github.io/blog/tucuman/</guid>
+      <description>&lt;p&gt;Compartimos el programa de nuestro &lt;strong&gt;tercer encuentro anual&lt;/strong&gt; que se llevará a cabo el 24 y 25 de agosto en la ciudad de Tucumán. La pregunta que ordena nuestro encuentra se relaciona con la contribución del derecho a la democracia, a cuarenta años de su recuperación. El derecho, ¿ha ayudado a la democracia? ¿De qué maneras, en qué formas? ¿Qué hizo y qué no hizo el derecho para consolidarla, y qué puede hacer&amp;mdash;de aquí en adelante&amp;mdash;para fortalecerla?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Invitación a publicar en iberICONnnect.blog</title>
-      <link>http://localhost:1313/blog/ibericonnect/</link>
+      <link>https://iconsar.github.io/blog/ibericonnect/</link>
       <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/ibericonnect/</guid>
-      <description>Sobre IberICONnect.blog Nos interesa participar activamente en el blog que engloba los capítulos iberoamericanos de ICON, www.ibericonnect.blog y por ello queremos contarles algunas cosas sobre este proyecto que es central en la dinámica de ICON, y a la vez es la versión en español del blog ICONnect)&#xA;Si no lo conocen, lo recomendamos enfáticamente: allí encontrarán una muy recomendable sección quincenal de novedades que incluye fallos, artículos y pequeñas recensiones.</description>
+      <guid>https://iconsar.github.io/blog/ibericonnect/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;%22img/ibericonnect.png%22&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;sobre-ibericonnectblog&#34;&gt;Sobre IberICONnect.blog&lt;/h1&gt;&#xA;&lt;p&gt;Nos interesa participar activamente en el blog que engloba los capítulos iberoamericanos de ICON, &lt;a href=&#34;www.ibericonnect.blog&#34;&gt;www.ibericonnect.blog&lt;/a&gt; y por ello queremos contarles algunas cosas sobre este proyecto que es central en la dinámica de ICON, y a la vez es la versión en español del blog &lt;a href=&#34;http://www.iconnectblog.com/&#34;&gt;ICONnect&lt;/a&gt;)&lt;/p&gt;&#xA;&lt;p&gt;Si no lo conocen, lo recomendamos enfáticamente: allí encontrarán una muy recomendable sección quincenal de novedades que incluye fallos, artículos y pequeñas recensiones.&lt;/p&gt;&#xA;&lt;p&gt;Además de columnistas fijos, se publican artículos breves y reseñas de libros, y pueden suscribirse a un boletín semanal que llegará todos los viernes.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A 40 años de la recuperación democrática. El derecho, ¿ha ayudado a la democracia?</title>
-      <link>http://localhost:1313/blog/tercer_encuentro_anual/</link>
+      <link>https://iconsar.github.io/blog/tercer_encuentro_anual/</link>
       <pubDate>Sat, 18 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/tercer_encuentro_anual/</guid>
-      <description>Este año se cumplen 40 años de la recuperación de la democracia, y la fecha ofrece una buena excusa para reflexionar sobre un dilema preocupante. La democracia es hoy un principio irrenunciable, que agrupa consensos explícitos y persistentes a pesar de crisis económicas recurrentes, creciente exclusión social, y aumento de la pobreza y la desigualdad. Incluso en un escenario de polarización creciente, ante problemas sistémicos que parecen de difícil solución y que engendran desesperanza sobre el futuro, la democracia es&amp;mdash;todavía&amp;mdash;aquello que nos une.</description>
+      <guid>https://iconsar.github.io/blog/tercer_encuentro_anual/</guid>
+      <description>&lt;p&gt;Este año se cumplen 40 años de la recuperación de la democracia, y la fecha ofrece una buena excusa para reflexionar sobre un dilema preocupante. La democracia es hoy un principio irrenunciable, que agrupa consensos explícitos y persistentes a pesar de crisis económicas recurrentes, creciente exclusión social, y aumento de la pobreza y la desigualdad. Incluso en un escenario de polarización creciente, ante problemas sistémicos que parecen de difícil solución y que engendran desesperanza sobre el futuro, la democracia es&amp;mdash;todavía&amp;mdash;aquello que nos une. Pero, ¿qué significa ese consenso? ¿Qué valores acompañan a ese compromiso democrático? ¿Qué implica éste mantra repetido que corre siempre el riesgo de perder sentido y volverse una fórmula vacía?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Miradas sobre la Corte Suprema</title>
-      <link>http://localhost:1313/blog/miradas_sobre_la_corte/</link>
+      <link>https://iconsar.github.io/blog/miradas_sobre_la_corte/</link>
       <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/miradas_sobre_la_corte/</guid>
-      <description>Les invitamos a un cíclo de charlas y lecturas alrededor de la Corte Suprema. ¡Coordina Gustavo Arballo!&#xA;Inscripción → https://bit.ly/CorteZoom2022&#xA;Transmisión via streaming sólo con registro previo.&#xA;🗓 Jueves 20 de octubre - 14 hs.&#xA;Leticia Barrera - La Corte por dentro&#xA;🗓 Jueves 27 de octubre - 14 hs.&#xA;Gabriel Pereira - Activismo y equilibrismo en la Corte&#xA;🗓 Jueves 3 de noviembre - 14 hs.&#xA;Lecturas → La Corte desde adentro (Boffi Boggero, Oyhanarte, Rosatti)</description>
+      <guid>https://iconsar.github.io/blog/miradas_sobre_la_corte/</guid>
+      <description>&lt;p&gt;Les invitamos a un cíclo de charlas y lecturas alrededor de la Corte Suprema. ¡Coordina Gustavo Arballo!&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Inscripción&lt;/strong&gt; → &lt;a href=&#34;https://bit.ly/CorteZoom2022&#34;&gt;https://bit.ly/CorteZoom2022&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Transmisión via &lt;em&gt;streaming&lt;/em&gt; sólo con registro previo.&lt;/p&gt;&#xA;&lt;p&gt;🗓 &lt;strong&gt;Jueves 20 de octubre - 14 hs.&lt;/strong&gt;&lt;br&gt;&#xA;Leticia Barrera - La Corte por dentro&lt;/p&gt;&#xA;&lt;p&gt;🗓 &lt;strong&gt;Jueves 27 de octubre - 14 hs.&lt;/strong&gt;&lt;br&gt;&#xA;Gabriel Pereira - Activismo y equilibrismo en la Corte&lt;/p&gt;&#xA;&lt;p&gt;🗓 &lt;strong&gt;Jueves 3 de noviembre - 14 hs.&lt;/strong&gt;&lt;br&gt;&#xA;Lecturas → La Corte desde adentro (Boffi Boggero, Oyhanarte, Rosatti)&lt;/p&gt;</description>
     </item>
     <item>
       <title>El proceso constituyente chileno desde adentro</title>
-      <link>http://localhost:1313/blog/chile_atria/</link>
+      <link>https://iconsar.github.io/blog/chile_atria/</link>
       <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/chile_atria/</guid>
-      <description>El próximo jueves 29 de septiembre (6pm) conversaremos con Fernando Atria sobre el proceso constituyente chileno. Organiza el CIJS (CONICET) de la Universidad Nacional de Córdoba. El texto base de discusión se puede encontrar aquí. Y aquí el enlance a la videollamada.</description>
+      <guid>https://iconsar.github.io/blog/chile_atria/</guid>
+      <description>&lt;p&gt;El próximo jueves 29 de septiembre (6pm) conversaremos con Fernando Atria sobre el proceso constituyente chileno. Organiza el CIJS (CONICET) de la Universidad Nacional de Córdoba. El texto base de discusión se puede encontrar &lt;a href=&#34;https://iconsar.github.io/files/papers/atria.pdf&#34;&gt;aquí&lt;/a&gt;. Y &lt;a href=&#34;https://bit.ly/3SuzWvF&#34;&gt;aquí&lt;/a&gt; el enlance a la videollamada.&lt;/p&gt;</description>
     </item>
     <item>
       <title>¡Gracias Córdoba!</title>
-      <link>http://localhost:1313/blog/gracias/</link>
+      <link>https://iconsar.github.io/blog/gracias/</link>
       <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/gracias/</guid>
-      <description>Tuvimos dos días extraordinarios de discusión, donde los valores que nos juntaron&amp;mdash;la discusión seria, horizontal, de trabajos que miran al derecho público con intensidad y atención, de manera comparada, con perspectivas multidisciplinarias&amp;mdash;estuvieron más que presentes. Nuestro primer encuentro presencial seguro fue el primero de muchos. ¡Compartimos algunas imágenes!</description>
+      <guid>https://iconsar.github.io/blog/gracias/</guid>
+      <description>&lt;p&gt;Tuvimos dos días extraordinarios de discusión, donde los valores que nos juntaron&amp;mdash;la discusión seria, horizontal, de trabajos que miran al derecho público con intensidad y atención, de manera comparada, con perspectivas multidisciplinarias&amp;mdash;estuvieron más que presentes. Nuestro primer encuentro presencial seguro fue el primero de muchos. ¡Compartimos algunas imágenes!&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://iconsar.github.io/img/1_icon_2022.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;https://iconsar.github.io/img/2_icon_2022.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;https://iconsar.github.io/img/3_icon_2022.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;https://iconsar.github.io/img/3_icon_2022b.jpeg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;https://iconsar.github.io/img/4_icon_2022.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;https://iconsar.github.io/img/5_icon_2022.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;https://iconsar.github.io/img/6_icon_2022.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;https://iconsar.github.io/img/7_icon_2022.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;https://iconsar.github.io/img/8_icon_2022.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;https://iconsar.github.io/img/9_icon_2022.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;https://iconsar.github.io/img/10_icon_22.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Programa del encuentro anual, Córdoba 2022</title>
-      <link>http://localhost:1313/blog/encuentro_anual_programa/</link>
+      <link>https://iconsar.github.io/blog/encuentro_anual_programa/</link>
       <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/encuentro_anual_programa/</guid>
-      <description>El futuro del derecho público en Argentina. Retomando la imaginación constitucional En todo el mundo, las instituciones democráticas parecen estar atravesando—-una vez más—-un momento de crisis. Están bajo tensión, presionadas por gobiernos que erosionan sus fundamentos y por una creciente insatisfacción ciudadana, que no encuentra en las instituciones representativas respuestas a sus demandas y deseos. ¿De qué manera fallan nuestras instituciones? ¿Qué causas profundas explican nuestra peculiar forma de crisis? ¿De qué manera puede contribuir la academia jurídica a afrontar estos desafíos?</description>
+      <guid>https://iconsar.github.io/blog/encuentro_anual_programa/</guid>
+      <description>&lt;h1 id=&#34;el-futuro-del-derecho-público-en-argentina-retomando-la-imaginación-constitucional&#34;&gt;El futuro del derecho público en Argentina. Retomando la imaginación constitucional&lt;/h1&gt;&#xA;&lt;p&gt;En todo el mundo, las instituciones democráticas parecen estar atravesando—-una vez más—-un momento de crisis. Están bajo tensión, presionadas por gobiernos que erosionan sus fundamentos y por una creciente insatisfacción ciudadana, que no encuentra en las instituciones representativas respuestas a sus demandas y deseos. ¿De qué manera fallan nuestras instituciones? ¿Qué causas profundas explican nuestra peculiar forma de crisis? ¿De qué manera puede contribuir la academia jurídica a afrontar estos desafíos? Las jornadas de discusión se organizará sobre dos ejes: causas y soluciones. El primero busca identificar problemas y exponerlos; el segundo propone idear posibles soluciones.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Encuentro anual ICON•S Argentina 2022</title>
-      <link>http://localhost:1313/blog/encuentro_anual/</link>
+      <link>https://iconsar.github.io/blog/encuentro_anual/</link>
       <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/encuentro_anual/</guid>
-      <description>El futuro del derecho público en Argentina. Retomando la imaginación constitucional En todo el mundo, las instituciones democráticas parecen estar atravesando—-una vez más—-un momento de crisis. Están bajo tensión, presionadas por gobiernos que erosionan sus fundamentos y por una creciente insatisfacción ciudadana, que no encuentra en las instituciones representativas respuestas a sus demandas y deseos. ¿De qué manera fallan nuestras instituciones? ¿Qué causas profundas explican nuestra peculiar forma de crisis? ¿De qué manera puede contribuir la academia jurídica a afrontar estos desafíos?</description>
+      <guid>https://iconsar.github.io/blog/encuentro_anual/</guid>
+      <description>&lt;h1 id=&#34;el-futuro-del-derecho-público-en-argentina-retomando-la-imaginación-constitucional&#34;&gt;El futuro del derecho público en Argentina. Retomando la imaginación constitucional&lt;/h1&gt;&#xA;&lt;p&gt;En todo el mundo, las instituciones democráticas parecen estar atravesando—-una vez más—-un momento de crisis. Están bajo tensión, presionadas por gobiernos que erosionan sus fundamentos y por una creciente insatisfacción ciudadana, que no encuentra en las instituciones representativas respuestas a sus demandas y deseos. ¿De qué manera fallan nuestras instituciones? ¿Qué causas profundas explican nuestra peculiar forma de crisis? ¿De qué manera puede contribuir la academia jurídica a afrontar estos desafíos? Las jornadas de discusión se organizará sobre dos ejes: causas y soluciones. El primero busca identificar problemas y exponerlos; el segundo propone idear posibles soluciones.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Presentación de libro</title>
-      <link>http://localhost:1313/blog/presentaci%C3%B3n_libro_petracchi/</link>
+      <link>https://iconsar.github.io/blog/presentaci%C3%B3n_libro_petracchi/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/presentaci%C3%B3n_libro_petracchi/</guid>
-      <description>Presentación de un libro más de la colección &amp;ldquo;La Corte y sus presidencias&amp;rdquo;, dirigida por Paula Gaido y Laura Clérico →</description>
+      <guid>https://iconsar.github.io/blog/presentaci%C3%B3n_libro_petracchi/</guid>
+      <description>&lt;p&gt;Presentación de un libro más de la colección &amp;ldquo;La Corte y sus presidencias&amp;rdquo;, dirigida por Paula Gaido y Laura Clérico →&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://iconsar.github.io/img/flyer_petracchi.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Programa de estudios de actualización y profundización en derecho constitucional</title>
-      <link>http://localhost:1313/blog/programa/</link>
+      <link>https://iconsar.github.io/blog/programa/</link>
       <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/programa/</guid>
-      <description>El capítulo argentino de la International Society of Public Law (ICON•S) invita a estudiantes cerca de terminar la carrera y jóvenes graduados y graduadas de abogacía para un programa de actualización y profundización en derecho constitucional. El programa busca generar espacios de discusión sobre temas centrales del derecho constitucional contemporáneo. Consiste en una serie de encuentros virtuales con profesoras y profesores de derecho constitucional, la lectura colectiva de textos, la producción de trabajos de análisis y reacción a las lecturas y la puesta en común de esas discusiones con quienes participen del programa.</description>
+      <guid>https://iconsar.github.io/blog/programa/</guid>
+      <description>&lt;p&gt;El capítulo argentino de la &lt;em&gt;International Society of Public Law&lt;/em&gt; (ICON•S) invita a estudiantes cerca de terminar la carrera y jóvenes graduados y graduadas de abogacía para un programa de actualización y profundización en derecho constitucional. El programa busca generar espacios de discusión sobre temas centrales del derecho constitucional contemporáneo. Consiste en una serie de encuentros virtuales con profesoras y profesores de derecho constitucional, la lectura colectiva de textos, la producción de trabajos de análisis y reacción a las lecturas y la puesta en común de esas discusiones con quienes participen del programa. Para ingresar al mismo es necesario postularse a través de &lt;a href=&#34;https://docs.google.com/forms/d/12z9PtqwVOce3uc4bnjCvEH5GDKx1i15n3E04oFFbSY8/edit&#34;&gt;este formulario&lt;/a&gt;. El programa de estudios no ofrece títulos ni certificaciones y es sin cargo: es un espacio de formación que requiere&amp;mdash;sin embargo&amp;mdash;del compromiso de las y los estudiantes. La intención es conformar un conjunto de personas interesadas por el derecho constitucional que están comenzando su carrera. En líneas con los objetivos del capítulo, desde ICON•S Argentina buscamos que ese grupo sea geográficamente diverso y que tenga paridad de género. Las decisiones sobre la admisión al programa estarán muy orientadas por esos objetivos y por la evaluación de las postulaciones, en las que se busca que las y los postulantes muestren la naturaleza de su interés en el programa.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Seminario</title>
-      <link>http://localhost:1313/blog/seminario_pc/</link>
+      <link>https://iconsar.github.io/blog/seminario_pc/</link>
       <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/seminario_pc/</guid>
-      <description>El profesor Pedro Caminos va a coordinar un seminario de teoría constitucional los primeros viernes de cada mes a partir de septiembre a las 18:30 (hora Argentina). Les compartimos el programa con los vínculos a las lecturas.&#xA;Primer eje: Conceptos para pensar las constituciones Primera sesión: Koskenniemi, M. (2007): &amp;ldquo;Constitutionalism as Mindset&amp;rdquo;. 🗓 Viernes 3/9&#xA;Segunda sesión: Jacobsohn, G. J. (2014): &amp;ldquo;Theorizing the Constitutional Revolution&amp;rdquo;. 🗓 Viernes 1/10&#xA;Segundo eje: Las constituciones y los tribunales como instituciones imperfectas Tercera sesión: Schauer, F.</description>
+      <guid>https://iconsar.github.io/blog/seminario_pc/</guid>
+      <description>&lt;p&gt;El profesor Pedro Caminos va a coordinar un seminario de teoría constitucional los primeros viernes de cada mes a partir de septiembre a las 18:30 (hora Argentina). Les compartimos el programa con los vínculos a las lecturas.&lt;/p&gt;&#xA;&lt;h4 id=&#34;primer-eje-conceptos-para-pensar-las-constituciones&#34;&gt;Primer eje: Conceptos para pensar las constituciones&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Primera sesión: &lt;a href=&#34;https://iconsar.github.io/files/papers/Koskenniemi.pdf&#34;&gt;Koskenniemi&lt;/a&gt;, M. (2007): &amp;ldquo;Constitutionalism as Mindset&amp;rdquo;. 🗓 Viernes 3/9&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Segunda sesión: &lt;a href=&#34;https://iconsar.github.io/files/papers/Jacobsohn.pdf&#34;&gt;Jacobsohn&lt;/a&gt;, G. J. (2014): &amp;ldquo;Theorizing the Constitutional Revolution&amp;rdquo;. 🗓 Viernes 1/10&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;segundo-eje-las-constituciones-y-los-tribunales-como-instituciones-imperfectas&#34;&gt;Segundo eje: Las constituciones y los tribunales como instituciones imperfectas&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Tercera sesión: &lt;a href=&#34;https://iconsar.github.io/files/papers/Schauer.pdf&#34;&gt;Schauer&lt;/a&gt;, F. (2017): &amp;ldquo;The Annoying Constitution&amp;rdquo;. 🗓 Viernes 5/11&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
