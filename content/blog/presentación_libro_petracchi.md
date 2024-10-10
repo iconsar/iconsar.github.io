@@ -17,5 +17,7 @@ mathjax: false # Enable MathJax for specific page
 
 Presentación de un libro más de la colección "La Corte y sus presidencias", dirigida por Paula Gaido y Laura Clérico → 
 
+<!--more-->
+
 ![](/img/flyer_petracchi.jpeg)
 

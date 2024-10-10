@@ -2,12 +2,19 @@ baseurl = "https://iconsar.github.io/"
 title = "ICON•S Argentina"
 languageCode = "es"
 defaultContentLanguage = "es"     
-paginate = "15" # Number of posts per page
 theme = "mainroad"
 disqusShortname = "" # Enable Disqus comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
+[pagination]
+
+pagerSize = 10
+
 [params.author.name]
+
+[Params.thumbnail]
+  # Show thumbnail only for list items
+  visibility = ["list"]
 
 [Params]
 

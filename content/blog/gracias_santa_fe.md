@@ -32,10 +32,13 @@ images:
 
 ---
 
-![](/img/santafe_thumb.png)
-
 Queremos agradecer sinceramente a quienes participaron del evento de ICON•S Argentina en la Facultad de Ciencias Jurídicas y Sociales de la Universidad Nacional del Litoral en Santa Fe. Fue un encuentro intenso, amable, y enriquecedor---en la ya cada vez más estable tradición de nuestro espacio. 
 
 ¡Algunas fotos del encuentro!
+
+<!--more-->
+
+![](/img/santafe_thumb.png)
+
 
 {{< glide-slider >}}

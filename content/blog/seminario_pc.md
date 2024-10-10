@@ -17,6 +17,8 @@ mathjax: false # Enable MathJax for specific page
 
 El profesor Pedro Caminos va a coordinar un seminario de teoría constitucional los primeros viernes de cada mes a partir de septiembre a las 18:30 (hora Argentina). Les compartimos el programa con los vínculos a las lecturas. 
 
+<!--more-->
+
 #### Primer eje: Conceptos para pensar las constituciones
 
 - Primera sesión: [Koskenniemi](/files/papers/Koskenniemi.pdf), M. (2007): "Constitutionalism as Mindset". 🗓 Viernes 3/9  

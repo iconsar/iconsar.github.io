@@ -15,9 +15,9 @@ toc: false # Enable Table of Contents for specific page
 mathjax: false # Enable MathJax for specific page
 ---
 
-![](/img/flyer_cuarto_encuentro_titulo.png)
-
 Este año se cumplen treinta años de la reforma constitucional de 1994 y como toda conmemoración, nos convoca a una reflexión sobre su legado histórico pero también sobre su actualidad y vigencia. El aniversario encuentra a la Argentina atravesando un período de extrema vulnerabilidad democrática, en línea con otras democracias de occidente que en los últimos años han vivido experiencias similares.
+
+<!--more-->
 
 En nuestro caso, la tensión bajo la que se encuentra el sistema político es el resultado de dos sucesos vinculados entre sí: el surgimiento de nuevos actores políticos cuyo compromiso con la democracia parece débil y una persistente y grave crisis económica. En este escenario, resulta relevante trazar un balance que vincule al diseño  del constitucional argentino en todos los niveles con nuestro presente. ¿Qué quiso hacer la reforma de 1994? ¿Qué herramientas ofrece para lidiar con las tensiones actuales? ¿Cuál es su relevancia histórica y su legado? ¿En qué tuvo éxito y en qué fracasó? ¿Cómo se llevan nuestras instituciones con las crisis y con las emergencias? ¿Cómo podemos mejorarlas y protegerlas? 
 
@@ -31,4 +31,4 @@ El encuentro se organizará alrededor de paneles en los que se presentarán trab
 **Aceptación de resúmenes** → 20 de mayo  
 **Recepción de trabajos finales** → 20 de julio  
 
-
+![](/img/flyer_cuarto_encuentro_titulo.png)

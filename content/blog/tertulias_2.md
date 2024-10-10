@@ -15,9 +15,11 @@ toc: false # Enable Table of Contents for specific page
 mathjax: false # Enable MathJax for specific pag
 ---
 
-[¡Compartimos información de colegas de Córdoba!]
+**[¡Compartimos información de colegas de Córdoba!]**
 
 En este segundo ciclo nos introducimos a fondo en preguntas como: ¿Cuánto de la idea de “poder constituyente” que hoy tenemos sigue embebida de las ideas de diferenciación sexual que se sancionaron con las primeras constituciones? ¿En qué medida ese poder constituyente responde a un “arquetipo viril” de la legitimidad del estado de derecho?
+
+<!--more-->
 
 🗓️ Inicia el lunes 14 de octubre de 2024, de 13:30 a 15 hs. (ART - Zona argentina estándar)
 
@@ -25,3 +27,5 @@ En este segundo ciclo nos introducimos a fondo en preguntas como: ¿Cuánto de l
 
 🔁 Si ya se encontraba inscriptx, re inscribase por medio del siguiente formulario:
 https://forms.gle/FTd2YwmN3qbdB8Y77
+
+![](/img/tertulias2.jpeg)

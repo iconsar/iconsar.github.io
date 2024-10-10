@@ -17,6 +17,8 @@ mathjax: false # Enable MathJax for specific page
 
 Tuvimos dos días extraordinarios de discusión, donde los valores que nos juntaron---la discusión seria, horizontal, de trabajos que miran al derecho público con intensidad y atención, de manera comparada, con perspectivas multidisciplinarias---estuvieron más que presentes. Nuestro primer encuentro presencial seguro fue el primero de muchos. ¡Compartimos algunas imágenes!
 
+<!--more-->
+
 ![](/img/1_icon_2022.jpg)
 ![](/img/2_icon_2022.jpg)
 ![](/img/3_icon_2022.jpg)

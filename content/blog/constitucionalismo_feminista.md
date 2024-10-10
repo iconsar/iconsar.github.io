@@ -15,9 +15,9 @@ toc: false # Enable Table of Contents for specific page
 mathjax: false # Enable MathJax for specific page
 ---
 
-![](/img/tertulias.png)
-
 Compartimos y auspiciamos una actividad organizada por colegas de la **Universidad Nacional de Córdoba** y la **Red Alas**. ¡Súmense!
+
+<!--more-->
 
 # ¿De qué se trata?
 
@@ -27,3 +27,4 @@ Es un seminario semanal de lecturas, para reflexionar críticamente sobre los pr
 
 🗒️ Para participar, debe leer y completar el siguiente formulario de inscripción: https://forms.gle/H3vFnN9gsfZMkiWV6
 
+![](/img/tertulias.png)
