@@ -83,7 +83,7 @@ h1 h2 h3 h4 h5 h6 {
 
 li {
 
-	font-size: 16px;
+	font-size: 13px;
 	font-family:  'PT Sans Narrow', 'Source Sans Pro'ns-serif;
 	line-height: 1.5;
 	font-weight: 200;
@@ -178,10 +178,10 @@ h6 {
 
 li {
 
-	font-size: 15px;
+	font-size: 13px;
 	font-family: 'Source Sans Pro'ns-serif;
 	line-height: 1.5;
-	font-weight: 200;
+	font-weight: 100;
 }
 
 li a {
