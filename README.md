@@ -12,7 +12,7 @@ ICON-S Argentina Chapter
 
 `hugo server -D`
 
-`sh deploy`
+`sh deploy` (does not work)
 
 or 
 
