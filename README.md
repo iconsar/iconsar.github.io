@@ -17,7 +17,7 @@ ICON-S Argentina Chapter
 or 
 
 `git add .`
-`git commit -m "whatever"`
+`git commit -m "Miller en Cordoba"`
 `git push origin main`
 
 
