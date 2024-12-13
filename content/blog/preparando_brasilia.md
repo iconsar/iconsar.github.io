@@ -1,5 +1,5 @@
 ---
-title: "Pensamos en las Jornadas ICON•S Brasil 2025---y en las del Capítulo Argentino"
+title: "Pensamos en las Jornadas ICON•S Brasil 2025 (y en las del Capítulo Argentino)"
 author: ICON•S
 date: 2024-12-13
 description: "Charla para compartir información sobre eventos relevantes del año que se acerca"
@@ -15,7 +15,7 @@ toc: false # Enable Table of Contents for specific page
 mathjax: false # Enable MathJax for specific page
 ---
 
-La conferencia anual de la [International Society of Public Law (ICON•S)](https://www.icon-society.org/icon-s-annual-conference/) son mucho más que un evento académico: son un espacio para aprender, intercambiar ideas y conocer a colegas y expertos de todo el mundo. En 2025 se hacen en julio (28-30) y tenemos la oportunidad de tenerlas bien cerca: Brasilia.
+La conferencia anual de la [International Society of Public Law (ICON•S)](https://www.icon-society.org/icon-s-annual-conference/) es mucho más que un evento académico: es un espacio para aprender, intercambiar ideas y conocer a colegas y expertos de todo el mundo. En 2025 se hacen en julio (28-30) y tenemos la oportunidad de tenerlas bien cerca: Brasilia.
 
 <!--more-->
 
