@@ -20,4 +20,8 @@ or
 `git commit -m "Miller en Cordoba"`
 `git push origin main`
 
+## Fix vulnerablities
 
+`npm audit`
+
+`npm audit fix --force`
