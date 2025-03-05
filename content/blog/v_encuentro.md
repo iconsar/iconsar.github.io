@@ -8,7 +8,7 @@ menu: side
 weight: 1
 # Theme-Defined params
 thumbnail: /img/flyer_quinto_encuentro.png
-lead: 3er encuentro anual de ICON•S Argentina
+lead: V encuentro anual de ICON•S Argentina
 comments: false # Enable Disqus comments for specific page
 authorbox: false # Enable authorbox for specific page
 toc: false # Enable Table of Contents for specific page
