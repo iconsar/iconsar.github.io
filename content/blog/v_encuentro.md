@@ -15,8 +15,6 @@ toc: false # Enable Table of Contents for specific page
 mathjax: false # Enable MathJax for specific page
 ---
 
-![](/img/flyer_quinto_encuentro.png)
-
 **Lugar**: Facultad de Derecho, Universidad Nacional de Mar del Plata 
 **Fecha**: 21 y 22 de agosto de 2025 
 
@@ -58,3 +56,4 @@ Esperamos recibir propuestas que promuevan el debate y el análisis crítico sob
 
 **¡Esperamos contar con su participación!**
 
+![](/img/flyer_quinto_encuentro.png)
