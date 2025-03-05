@@ -85,7 +85,8 @@ Por favor, registrarse con antelación utilizando [este formulario](https://form
 
 \- 11.30 a 13.00h → **Mesa reformas constitucionales e institucionales** 
 
-- María Eugenia Marichal y Gonzalo Bailo, [Imaginarios de la emergencia pública en los debates de la convención constituyente de 1994\. Ulises entre la delegación legislativa y los decretos de necesidad y urgencia](https://drive.google.com/file/d/1JZCTazzENUEm-AvboI4Gi7dpfgzFXS\_J/view?usp=drive\_link)   
+- María Eugenia Marichal y Gonzalo Bailo, Imaginarios en los debates de la convención constituyente de 1994. Ulises entre la delegación legislativa y los decretos de necesidad y urgencia
+
 - Valentín Daniel Patzi, [La Reforma Constitucional de 1994: Un análisis del cambio de elección indirecta a directa y de doble vuelta para el presidente y vicepresidente](https://drive.google.com/file/d/1fe\_T2UTjBA-tlh-Lxf8fPpj3TloXslG8/view?usp=drive\_link) 
 
 **Comenta**: Sebastián Guidi y Mariela Puga 

@@ -1,7 +1,9 @@
-baseurl = "https://iconsar.github.io/"
+#baseurl = "https://iconsar.github.io/"
+baseURL = "http://localhost:1313/"
+
 title = "ICON•S Argentina"
 languageCode = "es"
-defaultContentLanguage = "es"     
+defaultContentLanguage = "es"
 theme = "mainroad"
 disqusShortname = "" # Enable Disqus comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
