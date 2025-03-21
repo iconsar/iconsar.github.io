@@ -3,7 +3,7 @@
 ICON-S Argentina Chapter
 
 ## Instructions to update
-
+g
 `cd theme/mainroad`
 
 `git pull` (to update the theme)
