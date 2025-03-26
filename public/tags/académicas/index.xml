@@ -6,8 +6,15 @@
     <description>Recent content in Académicas on ICON•S Argentina</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 21 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/acad%C3%A9micas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Presentación del libro &#34;Cuando hicimos historia&#34;</title>
+      <link>http://localhost:1313/blog/libro_juicio_a_las_juntas/</link>
+      <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/libro_juicio_a_las_juntas/</guid>
+      <description>&lt;p&gt;Extendemos una invitación de colegas de la UBA, sobre la presentación del nuevo libro &lt;em&gt;Cuando hicimos historia. Acuerdos y desacuerdos en torno al Juicio a las Juntas&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>La Corte Boggiano</title>
       <link>http://localhost:1313/blog/corte_boggiano/</link>
