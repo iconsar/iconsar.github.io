@@ -15,7 +15,7 @@ toc: false # Enable Table of Contents for specific page
 mathjax: false # Enable MathJax for specific page
 ---
 
-Extendemos una invitación de colegas de la UBA, sobre la presentación del nuevo libro *Cuando hicimos historia. Acuerdos y desacuerdos en torno al Juicio a las Juntas*. 
+Extendemos una invitación de colegas de la UBA, sobre la presentación del nuevo libro [*Cuando hicimos historia. Acuerdos y desacuerdos en torno al Juicio a las Juntas*](https://sigloxxieditores.com.ar/libro/cuando-hicimos-historia/?srsltid=AfmBOoo72jqfk6BF17gQjcbVh-D-xFYLWrU6ow7rffxPQDRkftRL0suj). 
 
 <!--more-->
 
