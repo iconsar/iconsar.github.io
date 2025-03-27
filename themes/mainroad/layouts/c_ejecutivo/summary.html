@@ -19,10 +19,6 @@
     {{- with .Params.description }}
     <p style="padding: 5px 0px 0px 0px" class="content list__excerpt post__content clearfix">{{ . }}</p>
     {{- end }}
-    {{ with partial "post_meta.html" . -}}
-    <div class="list__meta meta">{{ . }}  </div>
-    <div class="list__meta meta">{{ . }}  </div>
-    {{- end }}
   </header>
   {{- if .Site.Params.readmore }}
   {{- if .Truncated }}

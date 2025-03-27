@@ -3,8 +3,8 @@
 title: "Estatuto"
 date: 2021-04-01
 description: "Example article description"
-categories:
-tags:
+categories: 
+tags: 
 menu: main # Optional, add page to a menu. Options: main, side, footer
 weight: 20
 # Theme-Defined params
@@ -14,6 +14,7 @@ comments: false # Enable Disqus comments for specific page
 authorbox: false # Enable authorbox for specific page
 toc: false # Enable Table of Contents for specific page
 mathjax: false # Enable MathJax for specific page
+hide_date: true
 ---
 
 El objetivo del Capítulo de Argentina es perseguir la misión de ICON•S dentro de Argentina, que es promover los valores de ICON•S y, en particular, el compromiso con un enfoque interdisciplinario del derecho público que involucre a personas del ámbito académico y profesional, y ramas asociadas. Fundado en 2020, este capítulo busca constituirse como un espacio de discusión intergeneracional, con balance de género y diversidad geográfica.
