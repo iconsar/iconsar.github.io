@@ -6,8 +6,15 @@
     <description>Recent content on ICON•S Argentina</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 31 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La Corte Nazareno I</title>
+      <link>http://localhost:1313/blog/corte_nazareno/</link>
+      <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/corte_nazareno/</guid>
+      <description>&lt;p&gt;En el marco de la Colección &lt;em&gt;La Corte y sus Presidencias&lt;/em&gt; (dirigida por Paula Gaido y Laura Clérico), compartimos el seminario que tendrá lugar el próximo &lt;strong&gt;27 de mayo&lt;/strong&gt; en la Sala Nino del Instituto Gioja, de la Facultad de Derecho Universidad de Buenos Aires.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>La Constitución, un decir</title>
       <link>http://localhost:1313/blog/undecir/</link>
@@ -188,7 +195,7 @@
       <link>http://localhost:1313/blog/dnus/</link>
       <pubDate>Sun, 24 Dec 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/dnus/</guid>
-      <description>&lt;h1 id=&#34;i-la-constitución-es-clara-y-contundente-te-prohibiré-dos-veces-para-que-te-quede-claro&#34;&gt;I. La Constitución es clara y contundente: te prohibiré dos veces para que te quede claro &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;i1-una-vez&#34;&gt;I.1. Una vez&lt;/h2&gt;&#xA;&lt;p&gt;El &lt;em&gt;Poder Ejecutivo&lt;/em&gt; no debe ejercer facultades legislativas: &amp;ldquo;&lt;em&gt;no podrá en ningún caso emitir disposiciones de carácter legislativo&lt;/em&gt;&amp;rdquo; (encabezado del artículo 99 inciso 3 CN). Es general: no solo abarca los DNU, sino cualquier norma emanada del poder ejecutivo que implique &amp;ldquo;emitir disposiciones de carácter legislativo&amp;rdquo;.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;&#xA;&lt;p&gt;La prohibición es clara. La Constitución utiliza términos estrictos y unívocos. Delimita claramente el alcance de la prohibición (&amp;ldquo;ningún caso&amp;rdquo;), la conducta prohibida (emitir disposiciones de carácter legislativo), el órgano estatal a la que se dirige la prohibición (Poder Ejecutivo) y en caso de violación la consecuencia jurídica (nulidad absoluta e insanable), dando pleno sentido al mandato de legalidad.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;i-la-constitución-es-clara-y-contundente-te-prohibiré-dos-veces-para-que-te-quede-claro-fnx&#34;&gt;I. La Constitución es clara y contundente: te prohibiré dos veces para que te quede claro &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;i1-una-vez&#34;&gt;I.1. Una vez&lt;/h2&gt;&#xA;&lt;p&gt;El &lt;em&gt;Poder Ejecutivo&lt;/em&gt; no debe ejercer facultades legislativas: &amp;ldquo;&lt;em&gt;no podrá en ningún caso emitir disposiciones de carácter legislativo&lt;/em&gt;&amp;rdquo; (encabezado del artículo 99 inciso 3 CN). Es general: no solo abarca los DNU, sino cualquier norma emanada del poder ejecutivo que implique &amp;ldquo;emitir disposiciones de carácter legislativo&amp;rdquo;.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;&#xA;&lt;p&gt;La prohibición es clara. La Constitución utiliza términos estrictos y unívocos. Delimita claramente el alcance de la prohibición (&amp;ldquo;ningún caso&amp;rdquo;), la conducta prohibida (emitir disposiciones de carácter legislativo), el órgano estatal a la que se dirige la prohibición (Poder Ejecutivo) y en caso de violación la consecuencia jurídica (nulidad absoluta e insanable), dando pleno sentido al mandato de legalidad.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Milei: más irresponsable que audaz</title>
@@ -462,13 +469,6 @@
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/contacto/</guid>
       <description>&lt;p&gt;Para contactarse con nosotros, por favor escribir a &lt;a href=&#34;mailto:icon.arg.s@gmail.com&#34;&gt;icon.arg.s@gmail.com&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Blog</title>
-      <link>http://localhost:1313/blog/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/</guid>
-      <description></description>
     </item>
     <item>
       <title>Membresía</title>
