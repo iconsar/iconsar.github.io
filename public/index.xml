@@ -6,8 +6,15 @@
     <description>Recent content on ICON•S Argentina</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 19 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tertulias: Constitucionalismo Feminista. Tensión entre Constitución y Reforma</title>
+      <link>http://localhost:1313/blog/tertulias_4/</link>
+      <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/tertulias_4/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;CUARTO CICLO&lt;/strong&gt;: &amp;ldquo;Tensión entre constitución y reforma: poder constituyente originario y derivado&amp;rdquo;. En este cuarto ciclo queremos seguir pensando cuál debería ser el posicionamiento feminista frente al asunto de la legitimación constitucional y el concepto de poder constituyente. En ese camino, esperamos avanzar hacia un análisis feminista de algunos de los procesos constituyentes recientes de América Latina.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>La Corte Nazareno I</title>
       <link>http://localhost:1313/blog/corte_nazareno/</link>
@@ -469,6 +476,13 @@
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/contacto/</guid>
       <description>&lt;p&gt;Para contactarse con nosotros, por favor escribir a &lt;a href=&#34;mailto:icon.arg.s@gmail.com&#34;&gt;icon.arg.s@gmail.com&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blog</title>
+      <link>http://localhost:1313/blog/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/</guid>
+      <description></description>
     </item>
     <item>
       <title>Membresía</title>
