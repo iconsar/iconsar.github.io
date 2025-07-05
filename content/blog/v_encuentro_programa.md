@@ -53,7 +53,7 @@ Por favor, registrarse con antelación utilizando [este formulario](https://docs
 
     + Valentín Patzi. Del Nunca Más al "no fue tan así": Cómo el olvido deliberado y la desinformación afectan a la cultura democrática ([resumen](https://www.dropbox.com/scl/fi/3r7x86sn942a4as6uy2e9/Patzi-Resumen-V-encuentro-Icons-Patzi.pdf?rlkey=hh3qexh9dk0uzbz65z34pf1sd&dl=0))
     + Laura Saldivia. El origen de los derechos humanos en argentina y en la región. La defensa de presos políticos en dictaduras.
-    + Comenta: Alba Ruibal 
+    + Alba Ruibal. Justicia transicional bajo leyes de impunidad: Argentina, 1995-2005.
 
 - 16.45 a 17h → pausa de café 
 
@@ -78,7 +78,7 @@ Por favor, registrarse con antelación utilizando [este formulario](https://docs
 
 - 12.45 a 14h → almuerzo
 
-- 14.30 a 16h → **Panel 8**. Corte Suprema (Laura Clérico, Roberto Gargarella, Horacio Etchichury, Gustavo Arballo, Miguel Benedetti, Jimena Sáenz). 
+- 14.30 a 16h → **Panel 8**. Corte Suprema (Laura Clérico, Roberto Gargarella, Horacio Etchichury, Gustavo Arballo, Miguel Benedetti, Jimena Sáenz, Daniel Vicente). 
 
 - 16 a 16.30h → pausa de café 
 
