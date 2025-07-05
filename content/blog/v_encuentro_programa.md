@@ -47,12 +47,13 @@ Por favor, registrarse con antelación utilizando [este formulario](https://docs
 
 - 12.45 a 14h → almuerzo
 
-- 14 a 15.30h → **Panel 3**. Presentación del libro "Cuando hicimos historia. Acuerdos y desacuerdos en torno al Juicio a las Juntas" (editado por Roberto Gargarella, Agustina Ramon Michel, y Lautaro García Alonso) 
+- 14 a 15.30h → **Panel 3**. Presentación del libro "Cuando hicimos historia. Acuerdos y desacuerdos en torno al Juicio a las Juntas" (editado por Roberto Gargarella, Agustina Ramon Michel, y Lautaro García Alonso. Comenta: Inés Jaureguiberry) 
 
 - 15.30 a 16.45h → **Panel 4**. Dictadura y democracia. 
 
     + Valentín Patzi. Del Nunca Más al "no fue tan así": Cómo el olvido deliberado y la desinformación afectan a la cultura democrática ([resumen](https://www.dropbox.com/scl/fi/3r7x86sn942a4as6uy2e9/Patzi-Resumen-V-encuentro-Icons-Patzi.pdf?rlkey=hh3qexh9dk0uzbz65z34pf1sd&dl=0))
     + Laura Saldivia. El origen de los derechos humanos en argentina y en la región. La defensa de presos políticos en dictaduras.
+    + Comenta: Alba Ruibal 
 
 - 16.45 a 17h → pausa de café 
 
@@ -70,15 +71,16 @@ Por favor, registrarse con antelación utilizando [este formulario](https://docs
 
 - 11 a 12.45 → **Panel 7**. Ponencias
 
+    + Marcelo Alegre. Filosofía democrática del derecho. 
     + Pablo Fabián Américo. [Populismo constitucional, constitución populista: la democracia representativa: entre la sangre y el tiempo](https://www.dropbox.com/scl/fi/rj07oos5hywulveg54wf8/Americo_ICONS.pdf?rlkey=ef5ns71hfcx2tmnb8le6k7884&dl=0)
     + Jonás Elfman. [El componente político de la constitución legal](https://www.dropbox.com/scl/fi/ku7mwo64zq33e2g4qvmcr/Elfman.-1er.-Borrador.-El-componente-pol-tico-de-la-constituci-n-legal..pdf?rlkey=6dfsxs44xwmgqqj0ampkk93nc&dl=0) 
     + Javier Aga. Enseñanza del derecho y democracia constitucional en Argentina
 
 - 12.45 a 14h → almuerzo
 
-- 14.30 a 16h → **Panel 8**. Corte Suprema (Laura Clérico, Roberto Gargarella, Horacio Etchichury, Gustavo Arballo, et al.). 
+- 14.30 a 16h → **Panel 8**. Corte Suprema (Laura Clérico, Roberto Gargarella, Horacio Etchichury, Gustavo Arballo, Miguel Benedetti, Jimena Sáenz). 
 
 - 16 a 16.30h → pausa de café 
 
-- 16.30 a 18h → Mesa de cierre (Roberto Gargarella, Leticia Vita, Eduardo Giménez, Laura Saldivia, Claudina Orunesu)
+- 16.30 a 18h → Mesa de cierre (Roberto Gargarella, Leticia Vita, Eduardo Jiménez, Laura Saldivia, Claudina Orunesu)
 
