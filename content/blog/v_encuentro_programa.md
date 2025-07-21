@@ -1,7 +1,7 @@
 ---
 title: V Encuentro Anual ICON•S Argentina (Programa provisorio)
 author: ICON•S
-date: 2025-07-05
+date: 2025-07-21
 description: El constitucionalismo democrático en tiempos de autoritarismo
 tags: ["Académicas"]
 menu: side 

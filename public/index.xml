@@ -6,12 +6,12 @@
     <description>Recent content on ICON•S Argentina</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Sat, 05 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>V Encuentro Anual ICON•S Argentina (Programa provisorio)</title>
       <link>http://localhost:1313/blog/v_encuentro_programa/</link>
-      <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/v_encuentro_programa/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Lugar&lt;/strong&gt;: Facultad de Derecho, Universidad Nacional de Mar del Plata&lt;br&gt;&#xA;&lt;strong&gt;Fecha&lt;/strong&gt;: 21 y 22 de agosto de 2025&lt;/p&gt;&#xA;&lt;p&gt;En los últimos años, las democracias del mundo han enfrentado múltiples desafíos que ponen en entredicho los fundamentos del constitucionalismo democrático. La creciente influencia de movimientos políticos que se alejan de los valores liberales, el debilitamiento de los poderes judiciales, los ataques a la libertad de prensa, y la creciente polarización política y agresividad de nuestra conversación pública desafían supuestos básicos de nuestros sistemas institucionales. La consolidación de liderazgos fuertes que tienden a debilitar los controles horizontales de un constitucionalismo que parece haber agotado sus recursos es una parte central del problema. La incapacidad de las instituciones democráticas de responder a las principales preocupaciones—tanto políticas como socioeconómicas—de los ciudadanos parece ser su contracara.&lt;/p&gt;</description>
     </item>
@@ -483,6 +483,13 @@
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/contacto/</guid>
       <description>&lt;p&gt;Para contactarse con nosotros, por favor escribir a &lt;a href=&#34;mailto:icon.arg.s@gmail.com&#34;&gt;icon.arg.s@gmail.com&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blog</title>
+      <link>http://localhost:1313/blog/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/</guid>
+      <description></description>
     </item>
     <item>
       <title>Membresía</title>
