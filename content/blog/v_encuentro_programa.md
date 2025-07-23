@@ -63,8 +63,8 @@ Por favor, registrarse con antelación utilizando [este formulario](https://docs
 - 9.00h a 10.30h → **Panel 6**. Ponencias 
 
     + Delfina Beguerie. Corte Suprema y precedentes de género. 
-    + Carlos Ottoline. [Orden y limpieza. La vulneración a los derechos de las personas en situación de calle en la Ciudad de Buenos Aires bajo la perspectiva de las organizaciones de la sociedad (2023 - 2024)](https://www.dropbox.com/scl/fi/5sb36lwy6i65rrr5ose3z/ottolione.pdf?rlkey=43k1gv8lj2cubvyiok6v3d1sp&dl=0)
-    + Tomas Fernández Fiks. Algunos apuntes sobre la justificación del castigo: ¿es la Constitución Nacional neutral al respecto?    
+    + Carlos Ottoline. [Nuevas Derechas y vulneración a Los Derechos Humanos: El caso de las personas en situación de calle en la Ciudad de Buenos Aires (2023-2025)](https://www.dropbox.com/scl/fi/5sb36lwy6i65rrr5ose3z/ottolione.pdf?rlkey=43k1gv8lj2cubvyiok6v3d1sp&dl=0)
+    + Tomas Fernández Fiks. Algunos apuntes sobre la justificación del castigo: ¿es la Constitución Nacional neutral al respecto?
 
 - 10.30 a 11h → pausa de café 
 
