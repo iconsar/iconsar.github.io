@@ -485,13 +485,6 @@
       <description>&lt;p&gt;Para contactarse con nosotros, por favor escribir a &lt;a href=&#34;mailto:icon.arg.s@gmail.com&#34;&gt;icon.arg.s@gmail.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Blog</title>
-      <link>http://localhost:1313/blog/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Membresía</title>
       <link>http://localhost:1313/membresia/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
