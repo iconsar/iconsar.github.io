@@ -78,7 +78,7 @@ Por favor, registrarse con antelación utilizando [este formulario](https://docs
 
 - 13 a 15h → almuerzo
 
-- 15 a 16.30h → **Panel 8**. Corte Suprema (Laura Clérico, Roberto Gargarella, Horacio Etchichury, Gustavo Arballo, Miguel Benedetti, Jimena Sáenz, Daniel Vicente). 
+- 15 a 16.30h → **Panel 8**. Corte Suprema (Laura Clérico, Roberto Gargarella, Horacio Etchichury, Gustavo Arballo, Miguel Benedetti, Jimena Sáenz, Daniel Vicente, Sebastián Guidi). 
 
 - 16.30 a 17h → pausa de café 
 
