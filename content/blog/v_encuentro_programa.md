@@ -1,7 +1,7 @@
 ---
-title: V Encuentro Anual ICON•S Argentina (Programa provisorio)
+title: V Encuentro Anual ICON•S Argentina (Programa definitivo)
 author: ICON•S
-date: 2025-07-21
+date: 2025-08-04
 description: El constitucionalismo democrático en tiempos de autoritarismo
 tags: ["Académicas"]
 menu: side 
@@ -62,7 +62,7 @@ Por favor, registrarse con antelación utilizando [este formulario](https://docs
 
 - 9.00h a 10.30h → **Panel 6**. Ponencias 
 
-    + Delfina Beguerie. Corte Suprema y precedentes de género. 
+    + Delfina Beguerie. [La (modesta) constitucionalización del género](https://www.dropbox.com/scl/fi/ejhryz0eucnmhoskif499/Bergallo-y-Beguerie.-revision-de-autoras-23-de-julio-clean.pdf?rlkey=syiluuumefayt5h2n6xkpa5ew&dl=0). 
     + Carlos Ottoline. [Nuevas Derechas y vulneración a Los Derechos Humanos: El caso de las personas en situación de calle en la Ciudad de Buenos Aires (2023-2025)](https://www.dropbox.com/scl/fi/5sb36lwy6i65rrr5ose3z/ottolione.pdf?rlkey=43k1gv8lj2cubvyiok6v3d1sp&dl=0)
     + Tomas Fernández Fiks. Algunos apuntes sobre la justificación del castigo: ¿es la Constitución Nacional neutral al respecto?
 
