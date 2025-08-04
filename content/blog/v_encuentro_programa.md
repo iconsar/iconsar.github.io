@@ -74,7 +74,6 @@ Por favor, registrarse con antelación utilizando [este formulario](https://docs
     + Paula Sagel. [Por una Corte transfeminista: crímenes de odio, travesticidios y el silencio jurisprudencial de la Corte Suprema](https://www.dropbox.com/scl/fi/uyqqqx0znv5w1ykhxw1iw/sagel.pdf?rlkey=7292aj5vkniboxl986w51zmxl&dl=0).
     + Pablo Fabián Américo. [Populismo constitucional, constitución populista: la democracia representativa: entre la sangre y el tiempo](https://www.dropbox.com/scl/fi/rj07oos5hywulveg54wf8/Americo_ICONS.pdf?rlkey=ef5ns71hfcx2tmnb8le6k7884&dl=0)
     + Jonás Elfman. [El componente político de la constitución legal](https://www.dropbox.com/scl/fi/ku7mwo64zq33e2g4qvmcr/Elfman.-1er.-Borrador.-El-componente-pol-tico-de-la-constituci-n-legal..pdf?rlkey=6dfsxs44xwmgqqj0ampkk93nc&dl=0) 
-    + Javier Aga. Enseñanza del derecho y democracia constitucional en Argentina
 
 - 13 a 15h → almuerzo
 
