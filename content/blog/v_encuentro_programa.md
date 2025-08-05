@@ -52,7 +52,7 @@ Por favor, registrarse con antelación utilizando [este formulario](https://docs
 
     + Valentín Patzi. Del Nunca Más al "no fue tan así": Cómo el olvido deliberado y la desinformación afectan a la cultura democrática ([resumen](https://www.dropbox.com/scl/fi/3r7x86sn942a4as6uy2e9/Patzi-Resumen-V-encuentro-Icons-Patzi.pdf?rlkey=hh3qexh9dk0uzbz65z34pf1sd&dl=0))
     + Laura Saldivia. El origen de los derechos humanos en argentina y en la región. La defensa de presos políticos en dictaduras.
-    + Alba Ruibal. Justicia transicional bajo leyes de impunidad: Argentina, 1995-2005.
+    + Alba Ruibal. [Justicia transicional bajo leyes de impunidad: Argentina, 1995-2005](https://www.dropbox.com/scl/fi/kq0ze6o33b39iqjpf4eet/Ruibal-Justicia-transicional-bajo-leyes-de-impunidad-2025.pdf?rlkey=d1oy7u5q9ucr2xrqgpwxp3119&dl=0).
 
 - 17.30 a 17.45h → pausa de café 
 
@@ -73,7 +73,7 @@ Por favor, registrarse con antelación utilizando [este formulario](https://docs
     + Marcelo Alegre. Filosofía democrática del derecho. 
     + Paula Sagel. [Por una Corte transfeminista: crímenes de odio, travesticidios y el silencio jurisprudencial de la Corte Suprema](https://www.dropbox.com/scl/fi/uyqqqx0znv5w1ykhxw1iw/sagel.pdf?rlkey=7292aj5vkniboxl986w51zmxl&dl=0).
     + Pablo Fabián Américo. [Populismo constitucional, constitución populista: la democracia representativa: entre la sangre y el tiempo](https://www.dropbox.com/scl/fi/rj07oos5hywulveg54wf8/Americo_ICONS.pdf?rlkey=ef5ns71hfcx2tmnb8le6k7884&dl=0)
-    + Jonás Elfman. [El componente político de la constitución legal](https://www.dropbox.com/scl/fi/ku7mwo64zq33e2g4qvmcr/Elfman.-1er.-Borrador.-El-componente-pol-tico-de-la-constituci-n-legal..pdf?rlkey=6dfsxs44xwmgqqj0ampkk93nc&dl=0) 
+    + Jonás Elfman. [El componente político de la constitución legal](https://www.dropbox.com/scl/fi/ku7mwo64zq33e2g4qvmcr/Elfman.-1er.-Borrador.-El-componente-pol-tico-de-la-constituci-n-legal..pdf?rlkey=6dfsxs44xwmgqqj0ampkk93nc&dl=0)
 
 - 13 a 15h → almuerzo
 
