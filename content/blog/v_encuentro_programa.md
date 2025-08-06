@@ -33,7 +33,7 @@ Por favor, registrarse con antelación utilizando [este formulario](https://docs
 - 9 a 9.15h → Palabras de bienvenida 
 - 9.15h a 10.30h → **Panel 1**. DNUs y Poder Presidencial. 
     
-    + Patricio Méndez Montenegro. [Decretos de necesidad y urgencia: de la excepción a la regla](https://www.dropbox.com/scl/fi/3ng9d0vem9oagegvlfmcq/Mendez-Montenegro-Informe-DNU.pdf?rlkey=flsffcaa0mjyuma297xmtwkmo&dl=0) 
+    + Patricio Méndez Montenegro. Decretos de necesidad y urgencia: de la excepción a la regla. 
     + Gonzalo Bailo y María Eugenia Marichal. [Decretos de necesidad y urgencia en el período 2023-2025. Un análisis de la (re)emergencia autoritaria en Argentina](https://www.dropbox.com/scl/fi/mw4uwa3vm9o436jpu6447/Bailo-y-Marichal-ICONs-2025.pdf?rlkey=b2o1gelx4rhbzy4jq0wp8l2ql&dl=0)
 
 - 10.30 a 10.45h → pausa de café 
