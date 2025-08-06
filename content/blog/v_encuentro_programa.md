@@ -51,7 +51,7 @@ Por favor, registrarse con antelación utilizando [este formulario](https://docs
 - 16 a 17.30h → **Panel 4**. Dictadura y democracia. 
 
     + Valentín Patzi. Del Nunca Más al "no fue tan así": Cómo el olvido deliberado y la desinformación afectan a la cultura democrática ([resumen](https://www.dropbox.com/scl/fi/3r7x86sn942a4as6uy2e9/Patzi-Resumen-V-encuentro-Icons-Patzi.pdf?rlkey=hh3qexh9dk0uzbz65z34pf1sd&dl=0))
-    + Laura Saldivia. El origen de los derechos humanos en argentina y en la región. La defensa de presos políticos en dictaduras.
+    + Laura Saldivia Menajovsky. [Visibilizando el aporte del Cono Sur en la creación de los Derechos Humanos](https://www.dropbox.com/scl/fi/60fgcp5ytyb0mbxjuxcnp/Saldivia-Menajovsky-Visibilizando-DDHH-final.pdf?rlkey=5dzd8wtxvge7s37wgys1z2tcp&dl=0). 
     + Alba Ruibal. [Justicia transicional bajo leyes de impunidad: Argentina, 1995-2005](https://www.dropbox.com/scl/fi/kq0ze6o33b39iqjpf4eet/Ruibal-Justicia-transicional-bajo-leyes-de-impunidad-2025.pdf?rlkey=d1oy7u5q9ucr2xrqgpwxp3119&dl=0).
 
 - 17.30 a 17.45h → pausa de café 

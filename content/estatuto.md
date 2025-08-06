@@ -57,7 +57,7 @@ El CE mantendrá comunicaciones regulares con los miembros del capítulo.
 
 Cada año, el CE comunicará un resumen anual de sus actividades al Comité Consultivo, y a los miembros del Capítulo. También mantendrá la comunicación con ICON•S.
 
-Los miembros del CE ocuparán el cargo durante cuatro. El cuerpo se renovará parcialmente cada dos años
+Los miembros del CE ocuparán el cargo durante cuatro años. El cuerpo se renovará parcialmente cada dos años
 
 Los miembros del CE serán elegidos por el CC mediante un procedimiento a definir *por el CC*.
 
