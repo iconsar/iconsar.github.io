@@ -42,7 +42,7 @@ Por favor, registrarse con antelación utilizando [este formulario](https://docs
 
     + Gabriel Pereira y Juan Carlos Murillo. [Movilización de derecha contra derechos en Argentina y la Región](https://www.dropbox.com/scl/fi/h2116y80rvcuhw8f72vdf/Pereira-Bautista-Murillo-ICON.pdf?rlkey=5kpzmefkkr04gr29txgqrrg66&dl=0) 
     + Michel Giraud Billoud. [Consulta Popular,virtudes y riesgos en la radicalización ideológica](https://www.dropbox.com/scl/fi/ukh4y2pt8df1u689r7s11/Giraud-Billoud-Michel-Consulta-Popular-virtudes-y-riesgos..pdf?rlkey=1410vr0jj1e4i3ql6djevzbs1&dl=0)
-    + Mariana Brocca. El cuidado para un constitucionalismo democrático: ¿una respuesta transformadora ante el backlash de derechos? ([resumen](https://www.dropbox.com/scl/fi/9mgh8wrdg6pax7yq1rwlp/Brocca-Mariana-Resumen.pdf?rlkey=ddck11eonm4wcvszm8m6ty45a&dl=0))
+    + Mariana Brocca. [El cuidado para un constitucionalismo democrático: ¿una respuesta transformadora ante el backlash de derechos?](https://www.dropbox.com/scl/fi/0xvnw5gq1mr7ltydn0a3b/Brocca-Mariana-Ponencia-ICON.S-Argentina.pdf?rlkey=iev95pgpita1lho0mn0qhgo7m&dl=0)
 
 - 12.45 a 14.30h → almuerzo
 
