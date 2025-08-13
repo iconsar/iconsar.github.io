@@ -83,3 +83,7 @@ Por favor, registrarse con antelación utilizando [este formulario](https://docs
 
 - 17 a 19h → Mesa de cierre (Roberto Gargarella, Leticia Vita, Eduardo Jiménez, Laura Saldivia, Claudina Orunesu)
 
+---
+
+![Flyer del encuentro](/img/ICONS25_5.png)
+
