@@ -31,10 +31,10 @@ Por favor, registrarse con antelación utilizando [este formulario](https://docs
 ## Día 1 (21 de agosto)
 
 - 9 a 9.15h → Palabras de bienvenida 
-- 9.15h a 10.30h → **Panel 1**. DNUs y Poder Presidencial. 
+- 9.15h a 10.30h → **Panel 1**. Polarización y autoritarismo. 
     
     + Patricio Méndez Montenegro. Decretos de necesidad y urgencia: de la excepción a la regla. 
-    + Gonzalo Bailo y María Eugenia Marichal. [Decretos de necesidad y urgencia en el período 2023-2025. Un análisis de la (re)emergencia autoritaria en Argentina](https://www.dropbox.com/scl/fi/mw4uwa3vm9o436jpu6447/Bailo-y-Marichal-ICONs-2025.pdf?rlkey=b2o1gelx4rhbzy4jq0wp8l2ql&dl=0)
+    + Jimena Sáenz. El otro lado de la deliberación democrática: una exploración de la escucha. 
 
 - 10.30 a 10.45h → pausa de café 
 
@@ -56,7 +56,7 @@ Por favor, registrarse con antelación utilizando [este formulario](https://docs
 
 - 17.30 a 17.45h → pausa de café 
 
-- 17.45 a 19h → **Panel 5**. Presentación libro "El uso del derecho como herramienta de transformación en América Latina" (editado por Gabriel Pereira y Catalina Smulovitz)
+- 17.45 a 19h → **Panel 5**. Presentación libro "El uso del derecho como herramienta de transformación en América Latina" (editado por Gabriel Pereira y Catalina Smulovitz). Presentan Gabriel Pereira y Alba Ruibal. Comentan Horacio Etchichury y Ramiro Álvarez Ugarte. 
 
 ## Día 2 (22 de agosto)
 
@@ -74,6 +74,7 @@ Por favor, registrarse con antelación utilizando [este formulario](https://docs
     + Paula Sagel. [Por una Corte transfeminista: crímenes de odio, travesticidios y el silencio jurisprudencial de la Corte Suprema](https://www.dropbox.com/scl/fi/uyqqqx0znv5w1ykhxw1iw/sagel.pdf?rlkey=7292aj5vkniboxl986w51zmxl&dl=0).
     + Pablo Fabián Américo. [Populismo constitucional, constitución populista: la democracia representativa: entre la sangre y el tiempo](https://www.dropbox.com/scl/fi/rj07oos5hywulveg54wf8/Americo_ICONS.pdf?rlkey=ef5ns71hfcx2tmnb8le6k7884&dl=0)
     + Jonás Elfman. [El componente político de la constitución legal](https://www.dropbox.com/scl/fi/ku7mwo64zq33e2g4qvmcr/Elfman.-1er.-Borrador.-El-componente-pol-tico-de-la-constituci-n-legal..pdf?rlkey=6dfsxs44xwmgqqj0ampkk93nc&dl=0)
+    + Comenta: Agustina Ramon Michel 
 
 - 13 a 15h → almuerzo
 
