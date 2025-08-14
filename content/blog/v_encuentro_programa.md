@@ -43,6 +43,7 @@ Por favor, registrarse con antelación utilizando [este formulario](https://docs
     + Gabriel Pereira y Juan Carlos Murillo. [Movilización de derecha contra derechos en Argentina y la Región](https://www.dropbox.com/scl/fi/h2116y80rvcuhw8f72vdf/Pereira-Bautista-Murillo-ICON.pdf?rlkey=5kpzmefkkr04gr29txgqrrg66&dl=0) 
     + Michel Giraud Billoud. [Consulta Popular,virtudes y riesgos en la radicalización ideológica](https://www.dropbox.com/scl/fi/ukh4y2pt8df1u689r7s11/Giraud-Billoud-Michel-Consulta-Popular-virtudes-y-riesgos..pdf?rlkey=1410vr0jj1e4i3ql6djevzbs1&dl=0)
     + Mariana Brocca. [El cuidado para un constitucionalismo democrático: ¿una respuesta transformadora ante el backlash de derechos?](https://www.dropbox.com/scl/fi/0xvnw5gq1mr7ltydn0a3b/Brocca-Mariana-Ponencia-ICON.S-Argentina.pdf?rlkey=iev95pgpita1lho0mn0qhgo7m&dl=0)
+    + Comenta: Deborah González Area. 
 
 - 12.45 a 14.30h → almuerzo
 
@@ -56,7 +57,7 @@ Por favor, registrarse con antelación utilizando [este formulario](https://docs
 
 - 17.30 a 17.45h → pausa de café 
 
-- 17.45 a 19h → **Panel 5**. Presentación libro "El uso del derecho como herramienta de transformación en América Latina" (editado por Gabriel Pereira y Catalina Smulovitz). Presentan Gabriel Pereira y Alba Ruibal. Comentan Horacio Etchichury y Ramiro Álvarez Ugarte. 
+- 17.45 a 19h → **Panel 5**. Presentación libro "El uso del derecho como herramienta de transformación en América Latina" (editado por Gabriel Pereira y Catalina Smulovitz). Presentan Gabriel Pereira y Alba Ruibal. Comenta Ramiro Álvarez Ugarte. 
 
 ## Día 2 (22 de agosto)
 
