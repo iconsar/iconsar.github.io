@@ -43,7 +43,7 @@ Por favor, registrarse con antelación utilizando [este formulario](https://docs
     + Gabriel Pereira y Juan Carlos Murillo. [Movilización de derecha contra derechos en Argentina y la Región](https://www.dropbox.com/scl/fi/h2116y80rvcuhw8f72vdf/Pereira-Bautista-Murillo-ICON.pdf?rlkey=5kpzmefkkr04gr29txgqrrg66&dl=0) 
     + Michel Giraud Billoud. [Consulta Popular,virtudes y riesgos en la radicalización ideológica](https://www.dropbox.com/scl/fi/ukh4y2pt8df1u689r7s11/Giraud-Billoud-Michel-Consulta-Popular-virtudes-y-riesgos..pdf?rlkey=1410vr0jj1e4i3ql6djevzbs1&dl=0)
     + Mariana Brocca. [El cuidado para un constitucionalismo democrático: ¿una respuesta transformadora ante el backlash de derechos?](https://www.dropbox.com/scl/fi/0xvnw5gq1mr7ltydn0a3b/Brocca-Mariana-Ponencia-ICON.S-Argentina.pdf?rlkey=iev95pgpita1lho0mn0qhgo7m&dl=0)
-    + Comenta: Deborah González Area. 
+    + Comenta: Juliana Tumini
 
 - 12.45 a 14.30h → almuerzo
 
@@ -66,6 +66,7 @@ Por favor, registrarse con antelación utilizando [este formulario](https://docs
     + Delfina Beguerie. [La (modesta) constitucionalización del género](https://www.dropbox.com/scl/fi/ejhryz0eucnmhoskif499/Bergallo-y-Beguerie.-revision-de-autoras-23-de-julio-clean.pdf?rlkey=syiluuumefayt5h2n6xkpa5ew&dl=0). 
     + Carlos Ottoline. [Nuevas Derechas y vulneración a Los Derechos Humanos: El caso de las personas en situación de calle en la Ciudad de Buenos Aires (2023-2025)](https://www.dropbox.com/scl/fi/5sb36lwy6i65rrr5ose3z/ottolione.pdf?rlkey=43k1gv8lj2cubvyiok6v3d1sp&dl=0)
     + Tomas Fernández Fiks. Algunos apuntes sobre la justificación del castigo: ¿es la Constitución Nacional neutral al respecto?
+    + Comenta: Deborah González Area
 
 - 10.30 a 11h → pausa de café 
 
