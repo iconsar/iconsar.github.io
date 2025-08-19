@@ -1,7 +1,7 @@
 ---
 title: V Encuentro Anual ICON•S Argentina (Programa definitivo)
 author: ICON•S
-date: 2025-08-04
+date: 2025-08-18
 description: El constitucionalismo democrático en tiempos de autoritarismo
 tags: ["Académicas"]
 menu: side 
@@ -33,7 +33,7 @@ Por favor, registrarse con antelación utilizando [este formulario](https://docs
 - 9 a 9.15h → Palabras de bienvenida 
 - 9.15h a 10.30h → **Panel 1**. Polarización y autoritarismo. 
     
-    + Patricio Méndez Montenegro. Decretos de necesidad y urgencia: de la excepción a la regla. 
+    + Patricio Méndez Montenegro. [Los DNU y la erosión democrática en el periodo 2011-2024. ¿Continuidades o rupturas?](https://www.dropbox.com/scl/fi/5c1d50h66yxi7yl9ry8j0/Mendez_Montenegro.pdf?rlkey=fi9q2u6y3rkm38hbtle2f8zov&dl=0). 
     + Jimena Sáenz. El otro lado de la deliberación democrática: una exploración de la escucha. 
 
 - 10.30 a 10.45h → pausa de café 
@@ -51,7 +51,7 @@ Por favor, registrarse con antelación utilizando [este formulario](https://docs
 
 - 16 a 17.30h → **Panel 4**. Dictadura y democracia. 
 
-    + Valentín Patzi. Del Nunca Más al "no fue tan así": Cómo el olvido deliberado y la desinformación afectan a la cultura democrática ([resumen](https://www.dropbox.com/scl/fi/3r7x86sn942a4as6uy2e9/Patzi-Resumen-V-encuentro-Icons-Patzi.pdf?rlkey=hh3qexh9dk0uzbz65z34pf1sd&dl=0))
+    + Valentín Patzi. [Del Nunca Más al "no fue tan así": Cómo el olvido deliberado y la desinformación afectan a la cultura democrática](https://www.dropbox.com/scl/fi/60fgcp5ytyb0mbxjuxcnp/Saldivia-Menajovsky-Visibilizando-DDHH-final.pdf?rlkey=5dzd8wtxvge7s37wgys1z2tcp&dl=0)
     + Laura Saldivia Menajovsky. [Visibilizando el aporte del Cono Sur en la creación de los Derechos Humanos](https://www.dropbox.com/scl/fi/60fgcp5ytyb0mbxjuxcnp/Saldivia-Menajovsky-Visibilizando-DDHH-final.pdf?rlkey=5dzd8wtxvge7s37wgys1z2tcp&dl=0). 
     + Alba Ruibal. [Justicia transicional bajo leyes de impunidad: Argentina, 1995-2005](https://www.dropbox.com/scl/fi/kq0ze6o33b39iqjpf4eet/Ruibal-Justicia-transicional-bajo-leyes-de-impunidad-2025.pdf?rlkey=d1oy7u5q9ucr2xrqgpwxp3119&dl=0).
 
