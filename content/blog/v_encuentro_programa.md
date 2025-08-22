@@ -73,7 +73,7 @@ Por favor, registrarse con antelación utilizando [este formulario](https://docs
 
 - 11 a 13h → **Panel 7**. Ponencias
 
-    + Marcelo Alegre. Filosofía democrática del derecho. 
+    + Marcelo Alegre. [Una teoría democrática del derecho](). 
     + Paula Sagel. [Por una Corte transfeminista: crímenes de odio, travesticidios y el silencio jurisprudencial de la Corte Suprema](https://www.dropbox.com/scl/fi/uyqqqx0znv5w1ykhxw1iw/sagel.pdf?rlkey=7292aj5vkniboxl986w51zmxl&dl=0).
     + Pablo Fabián Américo. [Populismo constitucional, constitución populista: la democracia representativa: entre la sangre y el tiempo](https://www.dropbox.com/scl/fi/rj07oos5hywulveg54wf8/Americo_ICONS.pdf?rlkey=ef5ns71hfcx2tmnb8le6k7884&dl=0)
     + Jonás Elfman. [El componente político de la constitución legal](https://www.dropbox.com/scl/fi/ku7mwo64zq33e2g4qvmcr/Elfman.-1er.-Borrador.-El-componente-pol-tico-de-la-constituci-n-legal..pdf?rlkey=6dfsxs44xwmgqqj0ampkk93nc&dl=0)
@@ -81,7 +81,7 @@ Por favor, registrarse con antelación utilizando [este formulario](https://docs
 
 - 13 a 15h → almuerzo
 
-- 15 a 16.30h → **Panel 8**. Corte Suprema (Laura Clérico, Roberto Gargarella, Horacio Etchichury, Gustavo Arballo, Miguel Benedetti, Jimena Sáenz, Daniel Vicente, Sebastián Guidi). 
+- 15 a 16.30h → **Panel 8**. Corte Suprema (Laura Clérico, Roberto Gargarella, Horacio Etchichury, Gustavo Arballo, Miguel Benedetti, Jimena Sáenz, Daniel Vicente, Patricio Nazareno). 
 
 - 16.30 a 17h → pausa de café 
 
