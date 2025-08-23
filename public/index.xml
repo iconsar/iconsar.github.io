@@ -6,8 +6,15 @@
     <description>Recent content on ICON•S Argentina</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 18 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¡Gracias Mar del Plata!</title>
+      <link>http://localhost:1313/blog/gracias_mardelplata/</link>
+      <pubDate>Sat, 23 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/gracias_mardelplata/</guid>
+      <description>&lt;p&gt;Fueron dos días intensísimos de discusión, de debate, de conversación sobre los temas que nos apasionan. En el &lt;a href=&#34;https://iconsar.github.io/blog/v_encuentro_programa/&#34;&gt;programa&lt;/a&gt; se encuentran listados los textos, para quienes no pudieron acompañarnos. Un agradecimiento especial a todos los que se acercaron, especialmente quienes vinieron desde lejos: Azul, La Pampa, Córdoba, Tucumán, La Plata, Buenos Aires. Y un agradecimiento especial a Claudina Orunesu, integrante fundadora de nuestro capítulo y del primer comité ejecutivo, que nos recibió en la hermosa Facultad de Derecho de Mar del Plata.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>V Encuentro Anual ICON•S Argentina (Programa definitivo)</title>
       <link>http://localhost:1313/blog/v_encuentro_programa/</link>
