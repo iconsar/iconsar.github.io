@@ -6,8 +6,15 @@
     <description>Recent content in Blog on ICON•S Argentina</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Wed, 27 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Una comunicación equívoca</title>
+      <link>http://localhost:1313/blog/comunicacion_equivoca/</link>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/comunicacion_equivoca/</guid>
+      <description>&lt;p&gt;El último 21 de septiembre de 2025 se publicó el Decreto N° 681 del Poder Ejecutivo, por el que se promulgó y ordenó la publicación de la ley de 27.793 de Emergencia Nacional en materia de Discapacidad (en adelante LENMD). Ley que el Congreso había conseguido sancionar después de un veto presidencial, insistiendo en su sanción con dos tercios de los votos en ambas cámaras. Ahora, el poder ejecutivo, incluía en el decreto de promulgación de la misma un encriptado mensaje al Congreso en su artículo 2° del Decreto. Este mensaje generó gran reacción en el sistema político y los medios de comunicación. Algunos diputados ya presentaron proyecto de moción de censura contra el Jefe de Gabinete de Ministros, entendiendo que el mensaje encriptado en el Decreto significaba el Poder Ejecutivo no iba ejecutar la LENDM.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>El derecho humano a la ciencia</title>
       <link>http://localhost:1313/blog/ddhh_ciencia/</link>
