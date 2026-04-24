@@ -15,7 +15,7 @@ pagerSize = 10
 [[menu.main]]
   identifier = "acerca-de"
   name = "Acerca de"
-  weight = 80
+  weight = 10
 
 [params.author.name]
 
