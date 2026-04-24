@@ -5,8 +5,10 @@ date: 2021-04-01
 description: "Example article description"
 categories:
 tags:
-menu: main # Optional, add page to a menu. Options: main, side, footer
-weight: 130
+menu:
+  main:
+    parent: "acerca-de"
+    weight: 20
 # Theme-Defined params
 thumbnail: 
 lead: ¡Sumate a ICON•S Argentina!

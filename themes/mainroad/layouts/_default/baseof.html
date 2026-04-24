@@ -8,7 +8,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>{{ block "title" . }}{{ if not .IsHome }}{{ .Title }} - {{ end }}{{ .Site.Title }}{{ end }}</title>
+	<title>{{ block "title" . }}{{ if not .IsHome }}{{ replace .Title "---" "—" }} - {{ end }}{{ replace .Site.Title "---" "—" }}{{ end }}</title>
 	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
 	<meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Params.Description }}{{ end }}">
 	{{ if .Site.Params.opengraph }}{{ template "_internal/opengraph.html" . }}{{ end }}
@@ -28,10 +28,10 @@
 	
 </head>
 <body class="body">
+	{{ partial "header" . }}
 	<div class="container container--outer">
-		{{ partial "header" . }}
 		<div class="wrapper flex">
-			<div class="primary">
+			<div class="primary{{ if eq .Kind "page" }} primary--single{{ end }}">
 		
 			{{ block "main" . }}
 				{{ with .Content }}
@@ -57,11 +57,12 @@
     $('.slick-slider').slick({
       dots: true,
       infinite: true,
-      speed: 300,
+      speed: 700,
       slidesToShow: 1,
       slidesToScroll: 1,
       autoplay: true,
-      autoplaySpeed: 2000,
+      autoplaySpeed: 6000,
+      pauseOnHover: true,
       arrows: true
     });
   });

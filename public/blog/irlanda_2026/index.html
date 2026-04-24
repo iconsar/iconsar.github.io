@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html class="no-js" lang="es">
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
 	<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
 	<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css"/>
 
@@ -36,15 +36,15 @@
 	
 </head>
 <body class="body">
-	<div class="container container--outer">
-		<header class="header">
-	<div class="container">
-		<div class="logo">
-			<img style="position: absolute; top:24px; right: 32px" src="/img/icons_chico.png" alt="peace dove" />
-			<a class="logo__link" href="/" title="ICON•S Argentina" rel="home"><div class="logo__title">ICON•S Argentina</div>
+	<header class="site-header">
+	<div class="site-header__inner">
+		<a class="site-header__logo" href="/" title="ICON•S Argentina" rel="home">
+			<img class="site-header__icon" src="/img/icons_chico.png" alt="peace dove" />
+			<div class="site-header__text">
+				<div class="logo__title">ICON•S Argentina</div>
 				<div class="logo__tagline">Capítulo argentino de la International Society of Public Law</div>
-			</a>
-		</div>
+			</div>
+		</a>
 		
 <nav class="menu">
 	<button class="menu__btn" aria-haspopup="true" aria-expanded="false" tabindex="0">
@@ -52,23 +52,47 @@
 	</button>
 	<ul class="menu__list">
 		<li class="menu__item">
-			<a class="menu__link" href="/quienes_somos/">
-				
-				<span class="menu__text">Quienes somos</span>
-				
-			</a>
-		</li>
-		<li class="menu__item">
 			<a class="menu__link" href="/estatuto/">
 				
 				<span class="menu__text">Estatuto</span>
 				
 			</a>
 		</li>
-		<li class="menu__item">
-			<a class="menu__link" href="/contacto/">
+		<li class="menu__item menu__item--has-children">
+			<span class="menu__link menu__link--parent" role="button" aria-haspopup="true" tabindex="0">
 				
-				<span class="menu__text">Contacto</span>
+				<span class="menu__text">Acerca de</span>
+				<svg class="menu__caret" width="10" height="6" viewBox="0 0 10 6" aria-hidden="true"><path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>
+				
+			</span>
+			<ul class="menu__submenu">
+				<li class="menu__subitem">
+					<a class="menu__sublink" href="/quienes_somos/">
+						
+						<span class="menu__subtext">Quienes somos</span>
+						
+					</a>
+				</li>
+				<li class="menu__subitem">
+					<a class="menu__sublink" href="/membresia/">
+						
+						<span class="menu__subtext">Membresía</span>
+						
+					</a>
+				</li>
+				<li class="menu__subitem">
+					<a class="menu__sublink" href="/contacto/">
+						
+						<span class="menu__subtext">Contacto</span>
+						
+					</a>
+				</li>
+			</ul>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/archivo/">
+				
+				<span class="menu__text">Archivo</span>
 				
 			</a>
 		</li>
@@ -86,20 +110,16 @@
 				
 			</a>
 		</li>
-		<li class="menu__item">
-			<a class="menu__link" href="/membresia/">
-				
-				<span class="menu__text">Membresía</span>
-				
-			</a>
-		</li>
 	</ul>
 </nav>
 
+
 	</div>
 </header>
+
+	<div class="container container--outer">
 		<div class="wrapper flex">
-			<div class="primary">
+			<div class="primary primary--single">
 		
 			
 <main class="main" role="main">
@@ -155,7 +175,7 @@ Puede consultar nuestras preguntas frecuentes para dudas y consultas comunes sob
 	<div class="post-nav__item post-nav__item--next">
 		<a class="post-nav__link" href="/blog/mendoza_2026/" rel="next">
 			<span class="post-nav__caption">Siguiente&thinsp;»</span>
-			<p class="post-nav__post-title">Reservar la fecha --- Mendoza, 2026</p>
+			<p class="post-nav__post-title">Reservar la fecha — Mendoza, 2026</p>
 		</a>
 	</div>
 </nav>
@@ -168,7 +188,7 @@ Puede consultar nuestras preguntas frecuentes para dudas y consultas comunes sob
 	<div class="container footer__container flex">
 		
 		<div class="footer__copyright">
-			&copy; 2025 ICON•S Argentina.
+			&copy; 2026 ICON•S Argentina.
 			<span class="footer__copyright-credits">Generado con <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> y <a href="https://github.com/Vimux/Mainroad/" rel="nofollow noopener" target="_blank">Mainroad</a>.</span>
 		</div>
 	</div>
@@ -182,11 +202,12 @@ Puede consultar nuestras preguntas frecuentes para dudas y consultas comunes sob
     $('.slick-slider').slick({
       dots: true,
       infinite: true,
-      speed: 300,
+      speed: 700,
       slidesToShow: 1,
       slidesToScroll: 1,
       autoplay: true,
-      autoplaySpeed: 2000,
+      autoplaySpeed: 6000,
+      pauseOnHover: true,
       arrows: true
     });
   });

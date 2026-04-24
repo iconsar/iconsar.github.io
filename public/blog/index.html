@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html class="no-js" lang="es">
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
 	<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
 	<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css"/>
 
@@ -33,15 +33,15 @@
 	
 </head>
 <body class="body">
-	<div class="container container--outer">
-		<header class="header">
-	<div class="container">
-		<div class="logo">
-			<img style="position: absolute; top:24px; right: 32px" src="/img/icons_chico.png" alt="peace dove" />
-			<a class="logo__link" href="/" title="ICON•S Argentina" rel="home"><div class="logo__title">ICON•S Argentina</div>
+	<header class="site-header">
+	<div class="site-header__inner">
+		<a class="site-header__logo" href="/" title="ICON•S Argentina" rel="home">
+			<img class="site-header__icon" src="/img/icons_chico.png" alt="peace dove" />
+			<div class="site-header__text">
+				<div class="logo__title">ICON•S Argentina</div>
 				<div class="logo__tagline">Capítulo argentino de la International Society of Public Law</div>
-			</a>
-		</div>
+			</div>
+		</a>
 		
 <nav class="menu">
 	<button class="menu__btn" aria-haspopup="true" aria-expanded="false" tabindex="0">
@@ -49,23 +49,47 @@
 	</button>
 	<ul class="menu__list">
 		<li class="menu__item">
-			<a class="menu__link" href="/quienes_somos/">
-				
-				<span class="menu__text">Quienes somos</span>
-				
-			</a>
-		</li>
-		<li class="menu__item">
 			<a class="menu__link" href="/estatuto/">
 				
 				<span class="menu__text">Estatuto</span>
 				
 			</a>
 		</li>
-		<li class="menu__item">
-			<a class="menu__link" href="/contacto/">
+		<li class="menu__item menu__item--has-children">
+			<span class="menu__link menu__link--parent" role="button" aria-haspopup="true" tabindex="0">
 				
-				<span class="menu__text">Contacto</span>
+				<span class="menu__text">Acerca de</span>
+				<svg class="menu__caret" width="10" height="6" viewBox="0 0 10 6" aria-hidden="true"><path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>
+				
+			</span>
+			<ul class="menu__submenu">
+				<li class="menu__subitem">
+					<a class="menu__sublink" href="/quienes_somos/">
+						
+						<span class="menu__subtext">Quienes somos</span>
+						
+					</a>
+				</li>
+				<li class="menu__subitem">
+					<a class="menu__sublink" href="/membresia/">
+						
+						<span class="menu__subtext">Membresía</span>
+						
+					</a>
+				</li>
+				<li class="menu__subitem">
+					<a class="menu__sublink" href="/contacto/">
+						
+						<span class="menu__subtext">Contacto</span>
+						
+					</a>
+				</li>
+			</ul>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/archivo/">
+				
+				<span class="menu__text">Archivo</span>
 				
 			</a>
 		</li>
@@ -83,18 +107,14 @@
 				
 			</a>
 		</li>
-		<li class="menu__item">
-			<a class="menu__link" href="/membresia/">
-				
-				<span class="menu__text">Membresía</span>
-				
-			</a>
-		</li>
 	</ul>
 </nav>
 
+
 	</div>
 </header>
+
+	<div class="container container--outer">
 		<div class="wrapper flex">
 			<div class="primary">
 		
@@ -127,26 +147,17 @@
   </header>
   <div class="content list__excerpt post__content clearfix">
     <p>¿Sabías que los amicus curiae pueden tener algún impacto en cómo la Corte Interamericana de Derechos Humanos interpreta la relación entre emergencia climática, movilidad humana y derechos humanos?</p>
-<p>Les invitamos a conversar sobre este rol fundamental en la Opinión Consultiva 32/25 sobre Emergencia Climática y DDHH.</p>
-<p>En este encuentro compartiremos los hallazgos de las investigaciones de:</p>
-<ul>
-<li>Lila García (CONICET / Univ. de Leuphana)</li>
-<li>Sofía Reca Milanta (Univ. de Münster)</li>
-<li>Estefanía Giaccone (UBA)</li>
-<li>Digno Montalván Zambrano (Univ. Rovira i Virgili)</li>
-</ul>
-<p><strong>9 de diciembre de 2025</strong>, 10:00 h (Arg.)</p>
   </div>
 </article><article class="list__item post">
   <figure class="list__thumbnail">
     <a href="http://localhost:1313/blog/mendoza_2026/">
-      <img src="/img/mendoza_cerro.jpg" alt="Reservar la fecha --- Mendoza, 2026" />
+      <img src="/img/mendoza_cerro.jpg" alt="Reservar la fecha — Mendoza, 2026" />
     </a>
   </figure>
   <header class="list__header">
     <h3 class="list__title post__title ">
       <a href="/blog/mendoza_2026/" rel="bookmark">
-      Reservar la fecha --- Mendoza, 2026
+      Reservar la fecha — Mendoza, 2026
       </a>
     </h3>
     <p class="list__lead post__lead">6 y 7 de agosto de 2026</p>
@@ -391,7 +402,7 @@
 	<div class="container footer__container flex">
 		
 		<div class="footer__copyright">
-			&copy; 2025 ICON•S Argentina.
+			&copy; 2026 ICON•S Argentina.
 			<span class="footer__copyright-credits">Generado con <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> y <a href="https://github.com/Vimux/Mainroad/" rel="nofollow noopener" target="_blank">Mainroad</a>.</span>
 		</div>
 	</div>
@@ -405,11 +416,12 @@
     $('.slick-slider').slick({
       dots: true,
       infinite: true,
-      speed: 300,
+      speed: 700,
       slidesToShow: 1,
       slidesToScroll: 1,
       autoplay: true,
-      autoplaySpeed: 2000,
+      autoplaySpeed: 6000,
+      pauseOnHover: true,
       arrows: true
     });
   });

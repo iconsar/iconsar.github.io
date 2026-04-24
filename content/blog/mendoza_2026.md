@@ -1,5 +1,5 @@
 ---
-title: Reservar la fecha --- Mendoza, 2026
+title: Reservar la fecha — Mendoza, 2026
 author: ICON·S Argentina
 date: 2025-11-04
 description: El VI Encuentro Anual será el 6 y 7 de agosto de 2026

@@ -1,0 +1,62 @@
+{{ define "main" }}
+<main class="main archivo" role="main">
+	<header class="archivo__header">
+		<h1 class="archivo__title">{{ .Title }}</h1>
+		{{- with .Site.Taxonomies.tags }}
+		<nav class="archivo__tags" aria-label="Filtrar por etiqueta">
+			{{- range $name, $taxonomy := . }}
+			<a class="archivo__tag" href="{{ "/tags/" | relURL }}{{ $name | urlize }}/">
+				<span class="archivo__tag-name">{{ $name }}</span>
+				<span class="archivo__tag-count">{{ len $taxonomy }}</span>
+			</a>
+			{{- end }}
+		</nav>
+		{{- end }}
+	</header>
+	{{- with .Content }}
+	<div class="content main__content clearfix">
+		{{ . }}
+	</div>
+	{{- end }}
+	{{ $mainPages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+	{{ $paginator := .Paginate $mainPages }}
+	{{- if $paginator.Pages }}
+	<div class="archivo__grid">
+		{{- range $paginator.Pages }}
+		{{- $title := replace .Title "---" "—" }}
+		<article class="archivo-card">
+			<a class="archivo-card__link" href="{{ .RelPermalink }}" rel="bookmark">
+				{{- if .Params.thumbnail }}
+				<div class="archivo-card__thumb">
+					<img src="{{ .Params.thumbnail | relURL }}" alt="{{ $title }}" loading="lazy" />
+				</div>
+				{{- end }}
+				<div class="archivo-card__body">
+					<h2 class="archivo-card__title">{{ $title }}</h2>
+					<div class="archivo-card__meta">
+						<time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02 Jan 2006" }}</time>
+					</div>
+					{{- with .Params.lead }}
+					<p class="archivo-card__lead">{{ . }}</p>
+					{{- end }}
+				</div>
+			</a>
+			{{- with .Params.tags }}
+			<div class="archivo-card__tags">
+				{{- range . }}
+				<a class="archivo-card__tag" href="{{ "/tags/" | relURL }}{{ . | urlize }}/">{{ . }}</a>
+				{{- end }}
+			</div>
+			{{- end }}
+		</article>
+		{{- end }}
+	</div>
+	{{- else }}
+		<div class="warning">
+			{{ partial "svg/files.svg" (dict "class" "warning__icon") }}
+			<h3 class="warning__headline">{{ T "noposts_warning_title" | safeHTML }}</h3>
+		</div>
+	{{- end }}
+</main>
+{{ partial "pagination.html" . }}
+{{ end }}

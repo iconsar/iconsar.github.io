@@ -6,11 +6,21 @@
 		{{ . }}
 	</div>
 	{{- end }}
-	{{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
-	{{- range $paginator.Pages }}
-		{{- .Render "summary" }}
-	{{- end }}
-	{{- if and (eq $paginator.TotalNumberOfElements 0) (not $.Content) }}
+	{{ $mainPages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+	{{ $recent := first 5 $mainPages }}
+	{{- if $recent }}
+	<div class="slick-slider home-slider">
+		{{- range $recent }}
+		{{- $title := replace .Title "---" "—" }}
+		<a class="home-slide" href="{{ .RelPermalink }}" rel="bookmark" aria-label="{{ $title }}">
+			{{- if .Params.thumbnail }}
+			<img class="home-slide__img" src="{{ .Params.thumbnail | relURL }}" alt="{{ $title }}" />
+			{{- end }}
+			<h2 class="home-slide__title"><span>{{ $title }}</span></h2>
+		</a>
+		{{- end }}
+	</div>
+	{{- else if not .Content }}
 		<div class="warning">
 			{{ partial "svg/files.svg" (dict "class" "warning__icon") }}
 			<h3 class="warning__headline">{{ T "noposts_warning_title" | safeHTML }}</h3>
@@ -21,5 +31,4 @@
 		</div>
 	{{ end }}
 </main>
-{{ partial "pagination.html" . }}
 {{ end }}

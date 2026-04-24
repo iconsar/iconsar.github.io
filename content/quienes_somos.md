@@ -5,8 +5,10 @@ date: 2021-04-01
 description: "Example article description"
 categories:
 tags:
-menu: main # Optional, add page to a menu. Options: main, side, footer
-weight: 10
+menu:
+  main:
+    parent: "acerca-de"
+    weight: 10
 
 # Theme-Defined params
 thumbnail: 

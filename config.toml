@@ -12,6 +12,11 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 pagerSize = 10
 
+[[menu.main]]
+  identifier = "acerca-de"
+  name = "Acerca de"
+  weight = 80
+
 [params.author.name]
 
 [Params.thumbnail]

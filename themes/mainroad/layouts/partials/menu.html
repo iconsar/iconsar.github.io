@@ -7,12 +7,39 @@
 		{{- $currentNode := . }}
 		{{- range .Site.Menus.main }}
 		{{- if .Name }}
-		<li class="menu__item{{ if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }} menu__item--active{{ end }}">
+		{{- $hasChildren := .HasChildren }}
+		<li class="menu__item
+			{{- if $hasChildren }} menu__item--has-children{{ end }}
+			{{- if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }} menu__item--active{{ end }}">
+			{{- if .URL }}
 			<a class="menu__link" href="{{ .URL }}">
 				{{ .Pre }}
 				<span class="menu__text">{{ .Name }}</span>
 				{{ .Post }}
 			</a>
+			{{- else }}
+			<span class="menu__link menu__link--parent" role="button" aria-haspopup="true" tabindex="0">
+				{{ .Pre }}
+				<span class="menu__text">{{ .Name }}</span>
+				<svg class="menu__caret" width="10" height="6" viewBox="0 0 10 6" aria-hidden="true"><path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>
+				{{ .Post }}
+			</span>
+			{{- end }}
+			{{- if $hasChildren }}
+			<ul class="menu__submenu">
+				{{- range .Children }}
+				{{- if .Name }}
+				<li class="menu__subitem{{ if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }} menu__subitem--active{{ end }}">
+					<a class="menu__sublink" href="{{ .URL }}">
+						{{ .Pre }}
+						<span class="menu__subtext">{{ .Name }}</span>
+						{{ .Post }}
+					</a>
+				</li>
+				{{- end }}
+				{{- end }}
+			</ul>
+			{{- end }}
 		</li>
 		{{- end }}
 		{{- end }}

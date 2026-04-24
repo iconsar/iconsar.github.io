@@ -1,15 +1,16 @@
 <article class="list__item post">
+  {{- $title := replace .Title "---" "—" }}
   {{- if .Params.thumbnail }}
   <figure class="list__thumbnail">
     <a href="{{ .Permalink }}">
-      <img src="{{ .Params.thumbnail | relURL }}" alt="{{ .Title }}" />
+      <img src="{{ .Params.thumbnail | relURL }}" alt="{{ $title }}" />
     </a>
   </figure>
   {{- end }}
   <header class="list__header">
     <h3 class="list__title post__title ">
       <a href="{{ .RelPermalink }}" rel="bookmark">
-      {{ .Title }}
+      {{ $title }}
       </a>
     </h3>
     {{- with .Params.lead }}
