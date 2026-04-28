@@ -5,7 +5,6 @@ date: 2024-01-03
 description:  El DNU implica una desviación en nuestra práctica jurídica que sienta un peligroso precedent
 tags: ["Simposio DNU70"]
 menu: side 
-weight: 2
 # Theme-Defined params
 thumbnail: img/nico_zara.png
 lead: El DNU implica una desviación en nuestra práctica jurídica que sienta un peligroso precedente

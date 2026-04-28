@@ -601,6 +601,13 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 
 .post__title {
 	margin: 0;
+	font-size: 32px;
+    border-bottom: 4px solid #e22d30;
+
+}
+
+.post__title_directivos {
+	margin: 0;
 }
 
 .post__meta {

@@ -5,7 +5,6 @@ date: 2024-12-12
 description: "Presentación de colección de Editorial La Ley, 16 de diciembre a las 18h"
 tags: ["Académicas"]
 menu: side 
-weight: 1
 # Theme-Defined params
 thumbnail: /img/npdp.png
 lead: "Presentación de colección de Editorial La Ley, 16 de diciembre a las 18h"

@@ -5,7 +5,6 @@ date: 2024-10-09
 description: 'Segundo Ciclo. El Constitucionalismo Liberal Feminista Y La Idea De Poder Constituyente'
 tags: ["Académicas"]
 menu: side 
-weight: 1
 # Theme-Defined params
 thumbnail: /img/tertulias2.jpeg
 lead: 'Segundo Ciclo. El Constitucionalismo Liberal Feminista Y La Idea De Poder Constituyente'

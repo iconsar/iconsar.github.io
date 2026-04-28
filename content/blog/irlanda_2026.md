@@ -5,7 +5,7 @@ date: 2025-10-14
 description: Dubin, Irlanda, del 29 de junio al 1 de julio de 2026
 tags: ["Académicas"]
 menu: side 
-weight: 1
+weight: 4
 # Theme-Defined params
 thumbnail: /img/irlanda.jpg
 lead: Dubin, Irlanda, del 29 de junio al 1 de julio de 2026

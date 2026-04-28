@@ -360,16 +360,18 @@
 	object-position: center top;
 	display: block;
 }
-.home-slide__title {
+.home-slide__text {
 	position: absolute;
 	left: 0;
 	right: 0;
 	bottom: 30px;
-	margin: 0;
 	padding: 0 30px;
+	pointer-events: none;
+}
+.home-slide__title {
+	margin: 0 0 8px;
 	text-align: left;
 	line-height: 1.25;
-	pointer-events: none;
 }
 .home-slide__title span {
 	font-family: 'MyFont','Jost*','Arial','Futura','Source Sans Pro',sans-serif;
@@ -381,9 +383,25 @@
 	box-decoration-break: clone;
 	-webkit-box-decoration-break: clone;
 }
+.home-slide__description {
+	margin: 0;
+	text-align: left;
+	line-height: 1.25;
+}
+.home-slide__description span {
+	font-family: 'MyFont','Jost*','Arial','Futura','Source Sans Pro',sans-serif;
+	font-size: 18px;
+	font-weight: 500;
+	color: #fff;
+	background: #000;
+	padding: 4px 10px;
+	box-decoration-break: clone;
+	-webkit-box-decoration-break: clone;
+}
 @media (max-width: 600px) {
 	.home-slide__title span { font-size: 24px; padding: 4px 10px; }
-	.home-slide__title { bottom: 18px; padding: 0 16px; }
+	.home-slide__description span { font-size: 14px; padding: 3px 8px; }
+	.home-slide__text { bottom: 18px; padding: 0 16px; }
 }
 
 /* Archivo section */

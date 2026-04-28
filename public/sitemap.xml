@@ -2,14 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/oc3225/</loc>
-    <lastmod>2025-12-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/mendoza_2026/</loc>
+    <loc>http://localhost:1313/blog/vi_encuentro_anual_convocatoria/</loc>
     <lastmod>2025-11-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/irlanda_2026/</loc>
-    <lastmod>2025-10-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/comunicacion_equivoca/</loc>
     <lastmod>2025-09-25T00:00:00+00:00</lastmod>
@@ -29,9 +23,6 @@
     <loc>http://localhost:1313/blog/corte_nazareno/</loc>
     <lastmod>2025-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/undecir/</loc>
-    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/libro_juicio_a_las_juntas/</loc>
     <lastmod>2025-03-26T00:00:00+00:00</lastmod>
   </url><url>
@@ -47,20 +38,11 @@
     <loc>http://localhost:1313/blog/preparando_brasilia/</loc>
     <lastmod>2024-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/coleccion_ll/</loc>
-    <lastmod>2024-12-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/miller_cordoba/</loc>
-    <lastmod>2024-12-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/jueces_comision_1/</loc>
     <lastmod>2024-11-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/u_congreso/</loc>
     <lastmod>2024-10-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/tertulias_2/</loc>
-    <lastmod>2024-10-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/c_academico/bergallo/</loc>
     <lastmod>2024-10-02T00:00:00+00:00</lastmod>
@@ -83,6 +65,9 @@
     <loc>http://localhost:1313/blog/icon_dnu/</loc>
     <lastmod>2023-12-24T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/blog/mendoza_2026/</loc>
+    <lastmod>2025-11-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/dnu_jc/</loc>
     <lastmod>2024-01-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -92,14 +77,14 @@
     <loc>http://localhost:1313/blog/dnu_ga/</loc>
     <lastmod>2024-01-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/dnu_nz/</loc>
-    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/dnu_he/</loc>
     <lastmod>2023-12-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/c_academico/garga/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/oc3225/</loc>
+    <lastmod>2025-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/dnus_mp/</loc>
     <lastmod>2023-12-26T00:00:00+00:00</lastmod>
@@ -154,6 +139,9 @@
   </url><url>
     <loc>http://localhost:1313/blog/presentacion/</loc>
     <lastmod>2020-04-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/irlanda_2026/</loc>
+    <lastmod>2025-10-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/c_academico/saba/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
@@ -212,13 +200,7 @@
     <loc>http://localhost:1313/c_ejecutivo/rau/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/iconmundo/</loc>
-    <lastmod>2021-07-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/c_ejecutivo/vr/</loc>
-    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/c_ejecutivo/</loc>
@@ -236,14 +218,35 @@
     <loc>http://localhost:1313/tags/acad%C3%A9micas/</loc>
     <lastmod>2025-12-05T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2025-12-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/undecir/</loc>
+    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/coleccion_ll/</loc>
+    <lastmod>2024-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/miller_cordoba/</loc>
+    <lastmod>2024-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/tertulias_2/</loc>
+    <lastmod>2024-10-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/institucional/</loc>
     <lastmod>2024-04-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/simposio-dnu70/</loc>
     <lastmod>2024-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/dnu_nz/</loc>
+    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/iconmundo/</loc>
+    <lastmod>2021-07-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/archivados/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>

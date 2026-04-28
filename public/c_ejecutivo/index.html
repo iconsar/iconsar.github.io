@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html class="no-js" lang="es">
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 	<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
 	<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css"/>
 
@@ -86,13 +86,6 @@
 				
 			</a>
 		</li>
-		<li class="menu__item">
-			<a class="menu__link" href="/blog/">
-				
-				<span class="menu__text">Blog</span>
-				
-			</a>
-		</li>
 		<li class="menu__item menu__item--active">
 			<a class="menu__link" href="/c_ejecutivo/">
 				
@@ -132,7 +125,7 @@
 	</header>
 <article class="list__item post">
   <header class="list__header">
-    <h4 class="list__title post__title ">
+    <h4 class="list__title post__title_directivos ">
       <a rel="bookmark" href="http://localhost:1313/c_ejecutivo/lv/">>
       Leticia Vita
       </a>
@@ -143,7 +136,7 @@
 
 <article class="list__item post">
   <header class="list__header">
-    <h4 class="list__title post__title ">
+    <h4 class="list__title post__title_directivos ">
       <a rel="bookmark" href="http://localhost:1313/c_ejecutivo/arm/">>
       Agustina Ramon Michel
       </a>
@@ -154,7 +147,7 @@
 
 <article class="list__item post">
   <header class="list__header">
-    <h4 class="list__title post__title ">
+    <h4 class="list__title post__title_directivos ">
       <a rel="bookmark" href="http://localhost:1313/c_ejecutivo/he/">>
       Horacio Etchichury
       </a>
@@ -165,7 +158,7 @@
 
 <article class="list__item post">
   <header class="list__header">
-    <h4 class="list__title post__title ">
+    <h4 class="list__title post__title_directivos ">
       <a rel="bookmark" href="http://localhost:1313/c_ejecutivo/ma/">>
       Magdalena Álvarez
       </a>
@@ -176,7 +169,7 @@
 
 <article class="list__item post">
   <header class="list__header">
-    <h4 class="list__title post__title ">
+    <h4 class="list__title post__title_directivos ">
       <a rel="bookmark" href="http://localhost:1313/c_ejecutivo/rau/">>
       Ramiro Álvarez Ugarte
       </a>
@@ -187,7 +180,7 @@
 
 <article class="list__item post">
   <header class="list__header">
-    <h4 class="list__title post__title ">
+    <h4 class="list__title post__title_directivos ">
       <a rel="bookmark" href="http://localhost:1313/c_ejecutivo/vr/">>
       Victoria Ricciardi
       </a>
@@ -218,16 +211,35 @@
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
 <script type="text/javascript">
   document.addEventListener("DOMContentLoaded", function() {
-    $('.slick-slider').slick({
-      dots: true,
-      infinite: true,
-      speed: 700,
-      slidesToShow: 1,
-      slidesToScroll: 1,
-      autoplay: true,
-      autoplaySpeed: 6000,
-      pauseOnHover: true,
-      arrows: true
+    $('.slick-slider').each(function() {
+      var $slider = $(this);
+      var slideCount = $slider.find('> div').length;
+
+      
+      var weights = [];
+      for (var i = 0; i < slideCount; i++) {
+        if (i === 0) {
+          weights.push(i, i, i); 
+        } else if (i === 1) {
+          weights.push(i, i); 
+        } else {
+          weights.push(i); 
+        }
+      }
+      var randomIndex = weights[Math.floor(Math.random() * weights.length)];
+
+      $slider.slick({
+        initialSlide: randomIndex,
+        dots: true,
+        infinite: true,
+        speed: 700,
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        autoplay: true,
+        autoplaySpeed: 24000,
+        pauseOnHover: true,
+        arrows: true
+      });
     });
   });
 </script>

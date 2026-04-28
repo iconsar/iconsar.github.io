@@ -16,7 +16,12 @@
 			{{- if .Params.thumbnail }}
 			<img class="home-slide__img" src="{{ .Params.thumbnail | relURL }}" alt="{{ $title }}" />
 			{{- end }}
-			<h2 class="home-slide__title"><span>{{ $title }}</span></h2>
+			<div class="home-slide__text">
+				<h2 class="home-slide__title"><span>{{ $title }}</span></h2>
+				{{- if .Params.lead }}
+				<p class="home-slide__description"><span>{{ .Params.lead }}</span></p>
+				{{- end }}
+			</div>
 		</a>
 		{{- end }}
 	</div>

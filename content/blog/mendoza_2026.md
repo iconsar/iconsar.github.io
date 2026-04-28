@@ -5,7 +5,7 @@ date: 2025-11-04
 description: El VI Encuentro Anual será el 6 y 7 de agosto de 2026
 tags: ["Académicas"]
 menu: side 
-weight: 1
+weight: 2
 # Theme-Defined params
 thumbnail: /img/mendoza_cerro.jpg
 lead: 6 y 7 de agosto de 2026 

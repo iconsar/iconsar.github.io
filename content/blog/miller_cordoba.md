@@ -5,7 +5,6 @@ date: 2024-12-03
 description: "El 10 de diciembre a las 16.30 en la UNC"
 tags: ["Académicas"]
 menu: side 
-weight: 1
 # Theme-Defined params
 thumbnail: /img/miller.jpeg
 lead: "El 10 de diciembre a las 16.30 en la UNC"

@@ -5,7 +5,7 @@ date: 2025-08-27
 description: Actividad en la Universidad de Buenos Aires
 tags: ["Académicas"]
 menu: side 
-weight: 1
+weight: 0
 # Theme-Defined params
 thumbnail: /img/ddhh_ciencia.png
 lead: Actividad en la Universidad de Buenos Aires

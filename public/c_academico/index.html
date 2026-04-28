@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html class="no-js" lang="es">
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 	<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
 	<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css"/>
 
@@ -87,13 +87,6 @@
 			</a>
 		</li>
 		<li class="menu__item">
-			<a class="menu__link" href="/blog/">
-				
-				<span class="menu__text">Blog</span>
-				
-			</a>
-		</li>
-		<li class="menu__item">
 			<a class="menu__link" href="/c_ejecutivo/">
 				
 				<span class="menu__text">Comité Ejecutivo</span>
@@ -137,7 +130,7 @@
     </a>
   </figure>
   <header class="list__header">
-    <h4 class="list__title post__title ">
+    <h4 class="list__title post__title_directivos ">
       <a rel="bookmark" href="http://localhost:1313/c_academico/bergallo/">>
       Paola Bergallo
       </a>
@@ -153,7 +146,7 @@
     </a>
   </figure>
   <header class="list__header">
-    <h4 class="list__title post__title ">
+    <h4 class="list__title post__title_directivos ">
       <a rel="bookmark" href="http://localhost:1313/c_academico/garga/">>
       Roberto Gargarella
       </a>
@@ -169,7 +162,7 @@
     </a>
   </figure>
   <header class="list__header">
-    <h4 class="list__title post__title ">
+    <h4 class="list__title post__title_directivos ">
       <a rel="bookmark" href="http://localhost:1313/c_academico/lc/">>
       Laura Clérico
       </a>
@@ -185,7 +178,7 @@
     </a>
   </figure>
   <header class="list__header">
-    <h4 class="list__title post__title ">
+    <h4 class="list__title post__title_directivos ">
       <a rel="bookmark" href="http://localhost:1313/c_academico/saba/">>
       Roberto Saba
       </a>
@@ -201,7 +194,7 @@
     </a>
   </figure>
   <header class="list__header">
-    <h4 class="list__title post__title ">
+    <h4 class="list__title post__title_directivos ">
       <a rel="bookmark" href="http://localhost:1313/c_academico/lv/">>
       Leticia Vita
       </a>
@@ -217,7 +210,7 @@
     </a>
   </figure>
   <header class="list__header">
-    <h4 class="list__title post__title ">
+    <h4 class="list__title post__title_directivos ">
       <a rel="bookmark" href="http://localhost:1313/c_academico/pr/">>
       Pablo Riberi
       </a>
@@ -233,7 +226,7 @@
     </a>
   </figure>
   <header class="list__header">
-    <h4 class="list__title post__title ">
+    <h4 class="list__title post__title_directivos ">
       <a rel="bookmark" href="http://localhost:1313/c_academico/ij/">>
       Ines Jaureguiberry
       </a>
@@ -249,7 +242,7 @@
     </a>
   </figure>
   <header class="list__header">
-    <h4 class="list__title post__title ">
+    <h4 class="list__title post__title_directivos ">
       <a rel="bookmark" href="http://localhost:1313/c_academico/mp/">>
       Mariela Puga
       </a>
@@ -265,7 +258,7 @@
     </a>
   </figure>
   <header class="list__header">
-    <h4 class="list__title post__title ">
+    <h4 class="list__title post__title_directivos ">
       <a rel="bookmark" href="http://localhost:1313/c_academico/sl/">>
       Sebastián Linares
       </a>
@@ -281,7 +274,7 @@
     </a>
   </figure>
   <header class="list__header">
-    <h4 class="list__title post__title ">
+    <h4 class="list__title post__title_directivos ">
       <a rel="bookmark" href="http://localhost:1313/c_academico/sam/">>
       Silvina Álvarez Medina
       </a>
@@ -316,16 +309,35 @@
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
 <script type="text/javascript">
   document.addEventListener("DOMContentLoaded", function() {
-    $('.slick-slider').slick({
-      dots: true,
-      infinite: true,
-      speed: 700,
-      slidesToShow: 1,
-      slidesToScroll: 1,
-      autoplay: true,
-      autoplaySpeed: 6000,
-      pauseOnHover: true,
-      arrows: true
+    $('.slick-slider').each(function() {
+      var $slider = $(this);
+      var slideCount = $slider.find('> div').length;
+
+      
+      var weights = [];
+      for (var i = 0; i < slideCount; i++) {
+        if (i === 0) {
+          weights.push(i, i, i); 
+        } else if (i === 1) {
+          weights.push(i, i); 
+        } else {
+          weights.push(i); 
+        }
+      }
+      var randomIndex = weights[Math.floor(Math.random() * weights.length)];
+
+      $slider.slick({
+        initialSlide: randomIndex,
+        dots: true,
+        infinite: true,
+        speed: 700,
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        autoplay: true,
+        autoplaySpeed: 24000,
+        pauseOnHover: true,
+        arrows: true
+      });
     });
   });
 </script>

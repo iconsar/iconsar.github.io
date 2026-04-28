@@ -5,7 +5,6 @@ date: 2025-09-25
 description: El Decreto 681/25 que promulga Ley de discapacidad y las competencias del Congreso para gastar el presupuesto
 tags: ["Académicas"]
 menu: side 
-weight: 1
 # Theme-Defined params
 thumbnail: /img/mpuga.png
 lead: El Decreto 681/25 que promulga Ley de discapacidad y las competencias del Congreso para gastar el presupuesto

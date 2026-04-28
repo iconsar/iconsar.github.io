@@ -5,7 +5,6 @@ date: 2021-07-05
 description: Paneles con integrantes del capítulo en el evento global
 tags: ["Institucional"]
 menu: side 
-weight: 30
 # Theme-Defined params
 thumbnail: 
 lead: "Paneles con integrantes del capítulo en el evento global" # Lead text

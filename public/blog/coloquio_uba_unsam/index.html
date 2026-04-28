@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html class="no-js" lang="es">
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 	<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
 	<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css"/>
 
@@ -86,13 +86,6 @@
 			<a class="menu__link" href="/estatuto/">
 				
 				<span class="menu__text">Estatuto</span>
-				
-			</a>
-		</li>
-		<li class="menu__item">
-			<a class="menu__link" href="/blog/">
-				
-				<span class="menu__text">Blog</span>
 				
 			</a>
 		</li>
@@ -193,16 +186,35 @@
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
 <script type="text/javascript">
   document.addEventListener("DOMContentLoaded", function() {
-    $('.slick-slider').slick({
-      dots: true,
-      infinite: true,
-      speed: 700,
-      slidesToShow: 1,
-      slidesToScroll: 1,
-      autoplay: true,
-      autoplaySpeed: 6000,
-      pauseOnHover: true,
-      arrows: true
+    $('.slick-slider').each(function() {
+      var $slider = $(this);
+      var slideCount = $slider.find('> div').length;
+
+      
+      var weights = [];
+      for (var i = 0; i < slideCount; i++) {
+        if (i === 0) {
+          weights.push(i, i, i); 
+        } else if (i === 1) {
+          weights.push(i, i); 
+        } else {
+          weights.push(i); 
+        }
+      }
+      var randomIndex = weights[Math.floor(Math.random() * weights.length)];
+
+      $slider.slick({
+        initialSlide: randomIndex,
+        dots: true,
+        infinite: true,
+        speed: 700,
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        autoplay: true,
+        autoplaySpeed: 24000,
+        pauseOnHover: true,
+        arrows: true
+      });
     });
   });
 </script>

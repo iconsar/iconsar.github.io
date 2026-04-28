@@ -54,16 +54,35 @@
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
 <script type="text/javascript">
   document.addEventListener("DOMContentLoaded", function() {
-    $('.slick-slider').slick({
-      dots: true,
-      infinite: true,
-      speed: 700,
-      slidesToShow: 1,
-      slidesToScroll: 1,
-      autoplay: true,
-      autoplaySpeed: 6000,
-      pauseOnHover: true,
-      arrows: true
+    $('.slick-slider').each(function() {
+      var $slider = $(this);
+      var slideCount = $slider.find('> div').length;
+
+      // Weighted random selection - favors first few slides
+      var weights = [];
+      for (var i = 0; i < slideCount; i++) {
+        if (i === 0) {
+          weights.push(i, i, i); // Slide 0 appears 3x
+        } else if (i === 1) {
+          weights.push(i, i); // Slide 1 appears 2x
+        } else {
+          weights.push(i); // Other slides appear 1x each
+        }
+      }
+      var randomIndex = weights[Math.floor(Math.random() * weights.length)];
+
+      $slider.slick({
+        initialSlide: randomIndex,
+        dots: true,
+        infinite: true,
+        speed: 700,
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        autoplay: true,
+        autoplaySpeed: 24000,
+        pauseOnHover: true,
+        arrows: true
+      });
     });
   });
 </script>

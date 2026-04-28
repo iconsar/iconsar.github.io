@@ -5,7 +5,6 @@ date: 2025-03-31
 description: Continúa el debate sobre jueces en comisión
 tags: ["Académicas"]
 menu: side 
-weight: 1
 # Theme-Defined params
 thumbnail: /img/jonas.jpeg
 lead: "Continúa el debate sobre jueces en comisión"   
