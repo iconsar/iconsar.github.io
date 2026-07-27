@@ -5,7 +5,6 @@ date: 2025-08-18
 description: El constitucionalismo democrático en tiempos de autoritarismo
 tags: ["Académicas"]
 menu: side 
-weight: 1
 # Theme-Defined params
 thumbnail: /img/flyer_segundo_encuentro_3.png
 lead: El constitucionalismo democrático en tiempos de autoritarismo

@@ -5,7 +5,7 @@ date: 2025-08-23
 description: Dos días intensos de discusión constitucional y política
 tags: ["Académicas"]
 menu: side 
-weight: 1
+weight: 0
 # Theme-Defined params
 thumbnail: /img/mardelplata_thumb.jpg
 lead: El constitucionalismo democrático en tiempos de autoritarismo

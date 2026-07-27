@@ -2,20 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/vi_encuentro_anual_convocatoria/</loc>
-    <lastmod>2025-11-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/comunicacion_equivoca/</loc>
-    <lastmod>2025-09-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/ddhh_ciencia/</loc>
-    <lastmod>2025-08-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/gracias_mardelplata/</loc>
-    <lastmod>2025-08-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/v_encuentro_programa/</loc>
-    <lastmod>2025-08-18T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/blog/programa_vi_encuentro/</loc>
+    <lastmod>2026-07-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/tertulias_4/</loc>
     <lastmod>2025-06-12T00:00:00+00:00</lastmod>
@@ -68,6 +56,9 @@
     <loc>http://localhost:1313/blog/mendoza_2026/</loc>
     <lastmod>2025-11-04T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/blog/vi_encuentro_anual_convocatoria/</loc>
+    <lastmod>2025-11-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/dnu_jc/</loc>
     <lastmod>2024-01-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -82,9 +73,6 @@
   </url><url>
     <loc>http://localhost:1313/c_academico/garga/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/oc3225/</loc>
-    <lastmod>2025-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/dnus_mp/</loc>
     <lastmod>2023-12-26T00:00:00+00:00</lastmod>
@@ -212,17 +200,32 @@
     <loc>http://localhost:1313/archivo/</loc>
     <lastmod>2026-04-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-04-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/acad%C3%A9micas/</loc>
-    <lastmod>2025-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2025-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-07-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/oc3225/</loc>
     <lastmod>2025-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/comunicacion_equivoca/</loc>
+    <lastmod>2025-09-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/ddhh_ciencia/</loc>
+    <lastmod>2025-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/gracias_mardelplata/</loc>
+    <lastmod>2025-08-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/v_encuentro_programa/</loc>
+    <lastmod>2025-08-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/undecir/</loc>
     <lastmod>2025-03-31T00:00:00+00:00</lastmod>

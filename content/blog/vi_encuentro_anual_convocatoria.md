@@ -5,7 +5,7 @@ date: 2025-11-04
 description: El 6 y 7 de agosto de 2026 en la Facultad de Derecho de la Universidad Nacional de Cuyo. 
 tags: ["Académicas"]
 menu: side 
-weight: 1
+weight: 2
 # Theme-Defined params
 thumbnail: /img/mendoza.jpg
 lead: Ciudad de Mendoza, 6 y 7 de agosto de 2026 
