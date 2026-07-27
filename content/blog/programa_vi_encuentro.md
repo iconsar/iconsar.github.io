@@ -27,8 +27,8 @@ En el marco del *VI Encuentro Anual del Capítulo Argentino* de ICON•S, junto 
 
 ## 6 de agosto
 
-9:00 – Acreditaciones
-9:15 – Bienvenida: Agustina Ramón Michell y Juan Zelaya
+9:00 – Acreditaciones.  
+9:15 – Bienvenida: Agustina Ramón Michell y Juan Zelaya.  
 
 **9:30 – Mesa de trabajos: *Tradiciones y nuevas agendas críticas***
 
@@ -54,7 +54,7 @@ Comentarista: Inés Jaureguiberry
 
 **16:45 –** Pausa
 
-**17:00 – Mesa de trabajos: Medioambiente y animales no humanos**
+**17:00 – Mesa de trabajos: *Medioambiente y animales no humanos***
 
 * Sofía Anwandter: *La moralidad de la democracia deliberativa y el reconocimiento jurídico de los derechos de los animales no humanos*  
 * Ailén Rubio: *Límites dogmáticos e interpretación: la atenuante de reparación del daño medioambiental en el derecho penal*
