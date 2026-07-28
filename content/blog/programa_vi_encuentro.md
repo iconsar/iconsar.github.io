@@ -25,6 +25,8 @@ En el marco del _VI Encuentro Anual del Capítulo Argentino_ de ICON•S, junto 
 
 # Programa
 
+Las ponencias se encuentran en esta [carpeta compartida])(https://www.dropbox.com/scl/fo/mkyedo8yx9mz30jl4o7pr/ABkhnHAoeNdlG-XcMUnJvvc?rlkey=9q1qnw4slrcnrzzi4ji6hhrn8&dl=0). 
+
 ## 6 de agosto
 
 9:00 – Acreditaciones.  
@@ -96,7 +98,7 @@ Comentarista: Luciana Álvarez
 
 16:30 – Pausa
 
-**16:45 – Panel: _Corte Suprema_**. Con Gustavo Arballo y Laura Clérico
+**16:45 – Panel: _Corte Suprema_**. Con Gustavo Arballo, Laura Clérico y Mariela Puga
 
 17:45 – Pausa
 
