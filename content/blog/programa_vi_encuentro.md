@@ -71,7 +71,7 @@ Comentarista: Valeria Plaza Schaffer
 
 **9:00 – Mesa de trabajos: _Crítica del derecho y desobediencia civil_**
 
-* _Diego González Camejo: Grietas invisibles: crítica y opacidad del paradigma dogmático_
+* Diego González Camejo: _Grietas invisibles: crítica y opacidad del paradigma dogmático_
 * Elina Ibarra: _Crítica de la desobediencia civil_
 
 Comentarista: Michel Giraud Billoud
