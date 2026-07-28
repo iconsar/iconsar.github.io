@@ -27,12 +27,13 @@ En el marco del _VI Encuentro Anual del Capítulo Argentino_ de ICON•S, junto 
 
 ## 6 de agosto
 
-9:30 – Acreditaciones.  
-9:45 – Bienvenida: Agustina Ramón Michell y Juan Zelaya.  
+9:00 – Acreditaciones.  
+9:15 – Bienvenida: Agustina Ramón Michell y Juan Zelaya.  
 
-**10:00 – Mesa de trabajos: _Tradiciones y nuevas agendas críticas_**
+**9:30 – Mesa de trabajos: _Tradiciones y nuevas agendas críticas_**
 
-* Horacio Etchichury: _Contribuciones de izquierda al constitucionalismo social argentino: el proyecto comunista en la Convención de 1957_  
+* Horacio Etchichury: _Contribuciones de izquierda al constitucionalismo social argentino: el proyecto comunista en la Convención de 1957_ 
+* Elena Isabel Gómez: _Crítica al sistema de partidos políticos_
 * Jonatan Palmblad: _Nuevas agendas de la crítica jurídica: tecnología, crisis ecológica, transformaciones laborales y economía política_
 
 Comentarista: Julieta Cena
@@ -68,9 +69,9 @@ Comentarista: Valeria Plaza Schaffer
 
 ## 7 de agosto
 
-**9:00 – Mesa de trabajos: _Democracia_**
+**9:00 – Mesa de trabajos: _Crítica del derecho y desobediencia civil_**
 
-* Elena Isabel Gómez: _Crítica al sistema de partidos políticos_  
+* _Diego González Camejo: Grietas invisibles: crítica y opacidad del paradigma dogmático_
 * Elina Ibarra: _Crítica de la desobediencia civil_
 
 Comentarista: Michel Giraud Billoud
