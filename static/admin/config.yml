@@ -1,0 +1,93 @@
+# Sveltia CMS configuration — ICON•S Argentina
+# Docs: https://github.com/sveltia/sveltia-cms
+
+# --- Git backend (PRODUCTION) -------------------------------------------------
+# Sveltia commits content changes straight to GitHub. Confirm repo + branch:
+# this must be the branch that holds the SOURCE markdown (content/*.md), which
+# `hugo` then builds. Adjust `branch` if your source lives elsewhere.
+backend:
+  name: github
+  repo: iconsar/iconsar.github.io
+  branch: main
+
+# --- Local editing (DEVELOPMENT) ----------------------------------------------
+# With this on, `hugo server` + a local proxy let you edit the real files on
+# disk with NO login/OAuth. See the how-to in the commit / chat notes.
+local_backend: true
+
+# Where uploaded images are stored, and how Hugo references them.
+media_folder: "static/img"
+public_folder: "/img"
+
+# Spanish UI
+i18n:
+  structure: single_file
+  locales: [es]
+  default_locale: es
+
+collections:
+  # ---------------------------------------------------------------- Blog / Novedades
+  - name: blog
+    label: "Blog / Novedades"
+    label_singular: "Entrada"
+    description: "Entradas del blog. Las 5 con menor `peso` (y más recientes) aparecen en el slider de la portada."
+    folder: content/blog
+    create: true
+    slug: "{{slug}}"
+    preview_path: "blog/{{slug}}"
+    sortable_fields: [date, weight, title]
+    fields:
+      - { name: title, label: "Título", widget: string }
+      - { name: author, label: "Autor", widget: string, required: false, default: "ICON•S" }
+      - { name: date, label: "Fecha", widget: datetime, date_format: "YYYY-MM-DD", time_format: false }
+      - { name: description, label: "Descripción (meta / SEO)", widget: text, required: false }
+      - { name: lead, label: "Bajada (aparece en el slider y en los listados)", widget: text, required: false }
+      - { name: thumbnail, label: "Imagen (thumbnail / slider)", widget: image, required: false }
+      - { name: tags, label: "Tags", widget: list, required: false, default: ["Académicas"] }
+      - name: weight
+        label: "Peso"
+        hint: "Menor = aparece antes. Poné 1 para destacarla en el slider de la portada; dejá vacío para que quede al final."
+        widget: number
+        value_type: int
+        required: false
+        default: 1
+      - { name: menu, label: "Menú lateral", widget: select, options: ["side", ""], required: false, default: "side" }
+      - { name: comments, label: "Comentarios (Disqus)", widget: boolean, required: false, default: false }
+      - { name: toc, label: "Tabla de contenidos", widget: boolean, required: false, default: false }
+      - { name: mathjax, label: "MathJax (fórmulas)", widget: boolean, required: false, default: false }
+      - { name: authorbox, label: "Caja de autor", widget: boolean, required: false, default: false }
+      - { name: body, label: "Contenido", widget: markdown }
+
+  # ---------------------------------------------------------------- Comité Académico
+  - name: c_academico
+    label: "Comité Académico"
+    label_singular: "Integrante"
+    folder: content/c_academico
+    create: true
+    slug: "{{slug}}"
+    sortable_fields: [weight, title]
+    fields:
+      - { name: title, label: "Nombre", widget: string }
+      - { name: role, label: "Rol", widget: string, required: false }
+      - { name: date, label: "Fecha", widget: datetime, date_format: "YYYY-MM-DD", time_format: false, required: false }
+      - { name: description, label: "Descripción breve", widget: text, required: false }
+      - { name: thumbnail, label: "Foto", widget: image, required: false }
+      - { name: weight, label: "Orden", widget: number, value_type: int, required: false, default: 1 }
+      - { name: body, label: "Semblanza", widget: markdown, required: false }
+
+  # ---------------------------------------------------------------- Comité Ejecutivo
+  - name: c_ejecutivo
+    label: "Comité Ejecutivo"
+    label_singular: "Integrante"
+    folder: content/c_ejecutivo
+    create: true
+    slug: "{{slug}}"
+    sortable_fields: [weight, title]
+    fields:
+      - { name: title, label: "Nombre", widget: string }
+      - { name: role, label: "Rol", widget: string, required: false }
+      - { name: date, label: "Fecha", widget: datetime, date_format: "YYYY-MM-DD", time_format: false, required: false }
+      - { name: description, label: "Descripción breve", widget: text, required: false }
+      - { name: thumbnail, label: "Foto", widget: image, required: false }
+      - { name: weight, label: "Orden", widget: number, value_type: int, required: false, default: 20 }
+      - { name: body, label: "Semblanza", widget: markdown, required: false }
