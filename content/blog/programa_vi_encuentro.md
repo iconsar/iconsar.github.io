@@ -61,7 +61,7 @@ Comentarista: Inés Jaureguiberry
 * Sofía Anwandter: _La moralidad de la democracia deliberativa y el reconocimiento jurídico de los derechos de los animales no humanos_  
 * Ailén Rubio: _Límites dogmáticos e interpretación: la atenuante de reparación del daño medioambiental en el derecho penal_
 
-Comentarista: Valeria Plaza Schaffer
+Comentarista: Natalia Bellene
 
 18:30 – Pausa
 
