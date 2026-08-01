@@ -98,7 +98,7 @@ Comentarista: Luciana Álvarez
 
 16:30 – Pausa
 
-**16:45 – Panel: _Corte Suprema_**. Con Gustavo Arballo, Laura Clérico y Mariela Puga
+**16:45 – Panel: _Corte Suprema_**. Con Gustavo Arballo y Laura Clérico
 
 17:45 – Pausa
 
