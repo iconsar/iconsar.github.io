@@ -65,7 +65,7 @@ Comentarista: Natalia Bellene
 
 18:30 – Pausa
 
-**18:45 – Presentación de** [**_A 50 años del golpe de Estado_ ](http://revistas.derecho.uba.ar/index.php/revista-gioja/issue/view/200)**(Instituto Gioja, 2026)**. Con Alba Ruibal y Gonzalo Scivoletto
+**18:45 – Presentación de** [\*\*_A 50 años del golpe de Estado_ ](http://revistas.derecho.uba.ar/index.php/revista-gioja/issue/view/200)**(Instituto Gioja, 2026)**. Con Alba Ruibal, Gabriel Pereira y Gonzalo Scivoletto
 
 19:45 – Cierre
 
